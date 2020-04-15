@@ -242,7 +242,7 @@ Expect to be hungry. You may not be used to feeling hungry often, or even at all
 
 ## DIET
 
-A healthy diet should mostly consist of:
+### A healthy diet should mostly consist of:
 
 `Plant Foods`
 
@@ -283,7 +283,7 @@ A healthy diet should mostly consist of:
 * Coffee
 * Tea
 
-Try to avoid these items. This doesn't mean completely avoid them, just limit them.
+### Try to avoid these items. This doesn't mean completely avoid them, just limit them.
 
 `Sweetened Beverages`
 
