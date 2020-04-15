@@ -1,4 +1,4 @@
-# How To Gains :muscle:
+# A Guide 💪
 Quotes, data, excerpts, and other info from:
 * https://thefitness.wiki/
 * https://examine.com/
