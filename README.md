@@ -86,18 +86,24 @@ The most important factors to consider are these:
 * If you can handle the time investment the routine requires – in session time, number of days per week, and schedule layout
 
 Workout routines can be broken down into:
+* Mobility / Flexibility
 * Cardio
   * Low-Intesity Steady State (LISS)
   * High-Intensity Interval Training (HIIT)
 * Strength
   * Calisthenics / Bodyweight
   * Weightlifting
-* Mobility / Flexibility
+  
+### Mobility / Flexibility
+Mobility is essential in order to increase range of motion and reduce chance of injury. I personally do not have a dedicated mobility workout, but instead incorporate mobility during the warm up to a cardio or strength training routine.
+Here's a list of routines you can choose from: <https://thefitness.wiki/routines/flexibility-mobility/>
 
 ### Cardio
-Cardio is based on elevating your heart rate, and keeping it elevated for a duration of time. 
+Cardio is based on elevating your heart rate, and maintaining an elevated heart rate for a duration of time. 
 
-If your goal is not to lose weight, you can keep cardio sessions to once per week. Here's a list of routines you can choose from: <https://thefitness.wiki/routines/cardio-and-conditioning/>
+If your goal is not to lose weight, you can keep cardio sessions to once per week.
+Here's a list of routines you can choose from: <https://thefitness.wiki/routines/cardio-and-conditioning/>
+Some recommendations:
 * [Couch to 5k](https://runmoreapp.com/couch-to-5k) is a great running program (LISS)
 * [8-Week HIIT](https://www.bodybuilding.com/content/ultimate-8-week-hiit-for-fat-burning-program.html) is a great HIIT progam
 
@@ -111,7 +117,7 @@ You should only be able to perform a few reps of an exercise when strength train
 
 Here's a list of various barbell, dumbbell, or bodyweight routines you can choose from: <https://thefitness.wiki/routines/strength-training-muscle-building/>
 
-All workouts (bodyweight and weightlifting) are very similar because they focus on the fundamental compound movements.
+All good bodyweight workouts are very similar to each other, and all good weightlifting workouts are very similar because they focus on the fundamental compound movements.
 
 My focus is on calisthenic training. Great beginner ones are:
 * [/r/bodyweightfitness Recommended Routine](https://old.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine)
@@ -122,6 +128,17 @@ My focus is on calisthenic training. Great beginner ones are:
   * [L-Sit & Pistol Squat](https://www.youtube.com/watch?v=flQVCWBuVgk)
   
 My personal workout routine is derived from the above programs.
+
+#### My Workout
+My program is similar to Chris Heria's in the way it's based on "regressing through failure". The method is described clearly in his Pullup video above.
+
+My training program is broken down into 3 different strenght training routines (Pull, Push, Legs & Core), plus an occasional cardio routine.
+
+**Pull**
+
+**Push**
+
+**Legs & Core**
 
 
 # 🍜 NUTRITION
