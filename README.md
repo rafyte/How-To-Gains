@@ -134,11 +134,57 @@ My program is similar to Chris Heria's in the way it's based on "regressing thro
 
 My training program is broken down into 3 different strenght training routines (Pull, Push, Legs & Core), plus an occasional cardio routine.
 
+Perform warmup. Each warmup exercise should be roughly 10 reps.
+
+For each Progression Exercise:
+1. Find the progression you are at. If you cannot perform more than 12 perfect-form reps of a progression, that is the progression you're at.
+2. Perform your highest progression until failure.
+3. Immediately move to one progression below and perform until failure. For example, if you reach failure at 5 pullups, immediately start negative pullups until failure.
+4. Immediately move to another progression below (two below highest progression) and perform until failure.
+5. Rest for 2.5 to 3 minutes before next set
+6. Perform 3 sets of each Exercise Progression in this manner
+7. Rest for 2.5 to 3 minutes before moving on to next exercise
+
+Once you can perform 12 perfect-reps of a progression, move to the next progression up for your next workout. If you can perform 12 perfect-reps of the highest progression, it's time to add weights.
+
+Perform each rep of each exercises slowly and controlled. The idea is to keep the muscles under tension for as long as possible. For example, for jump squats, don't just do quick half-jumps; that's just cardio. Land softly and controlled into a full deep squat, all the way down, and explode upwards into a jump. Prioritize perfec-form from the start.
+
+Make sure to perform full range of motion. For example, for a pushup you should practically touch the floor and extend completely for every rep. 
+
 **Pull**
+
+| Warmup                | Chin-up Progression      | Pullup Progression       |
+|-----------------------|--------------------------|--------------------------|
+| Neck & Shoulder Rolls | One-arm Chin-ups         | One-arm Pullups          |
+| Band Dislocates       | Assited One-arm Chin-ups | Assisted One-arm Pullups |
+| Cat-camel Bends       | Chin-ups                 | Pullups                  |
+| Wrist Mobility        | Negative Chin-ups        | Negative Pullups         |
+| Angel-Devils          | Australian Chin-ups      | Australian Pullups       |
+| Bear Crawl            |
+| Crab Walks            |
+
 
 **Push**
 
+| Warmup                | Handstand Progression      | Pushup Progression       | Dip Progression   |
+|-----------------------|----------------------------|--------------------------|-------------------|
+| Neck & Shoulder Rolls | Handstand Pushups          | Deep Pushups             | Dips              |
+| Band Dislocates       | Negative Handstand Pushups | Pushups                  | Negative Dips     |
+| Cat-camel Bends       | Elevated Pike Pushups      | Negative Pushups         | Leg-assisted Dips |
+| Wrist Mobility        | Pike Pushup                | 45-degree Pushups        |
+| Angel-Devils          | Negative Pike Pushup       | Knee Pushups             |
+| Bear Crawl            | Pike Hold                  | Negative Knee Pushups    |
+| Crab Walks            |
+
 **Legs & Core**
+
+| Warmup                    | Squat Progression | Lunge Progression | L-Sit Progression  |
+|---------------------------|-------------------|-------------------|--------------------|
+| Ankle Mobility            | Pistol Squats     | Sprinter Lunge    | L-Sit              |
+| Leg Swings (forward-back) | Box Pistol Squats | Heel Touches      | L-Sit Leg-switches |
+| Leg Swings (side-to-side) | Jump Squats       |                   | Raised Knee Hold   |
+| Bodyweight Squats         | Bodyweight Squats |                   | Leg Raises         |
+                                                                    | Knee Raises        |
 
 
 # 🍜 NUTRITION
