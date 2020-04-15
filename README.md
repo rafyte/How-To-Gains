@@ -37,8 +37,8 @@ Like strength training, cardiovascular exercise is an important component of a w
 
 ### There are many workout terms out there, most don't actually mean anything
 e.g. there's no such think as "toning". Only worry about two things:
-1. building muscle (strengh training and diet) and
-2. burning fat (cardio training and diet)
+1. building muscle
+2. burning fat
 
 ### The most important factors in achieving fitness goals are:
 * Doing an appropriate amount of exercise at an appropriate intensity
