@@ -95,6 +95,8 @@ Workout routines can be broken down into:
 * Mobility / Flexibility
 
 ### Cardio
+Cardio is based on elevating your heart rate, and keeping it elevated for a duration of time. 
+
 If your goal is not to lose weight, you can keep cardio sessions to once per week. Here's a list of routines you can choose from: https://thefitness.wiki/routines/cardio-and-conditioning/
 * [Couch to 5k](https://runmoreapp.com/couch-to-5k) is a great running program (LISS)
 * [8-Week HIIT](https://www.bodybuilding.com/content/ultimate-8-week-hiit-for-fat-burning-program.html) is a great HIIT progam
@@ -103,7 +105,9 @@ If your goal is not to lose weight, you can keep cardio sessions to once per wee
 These routines should be made up of a few compound exercises consisting of pulling and pushing movements for upper and lower body. Compound is much better than isolation, especially for beginners, for several reasons:
 * They do a much better job of stimulating overall muscle growth and development than isolation movements.
 * They allow you to work out more efficiently. You can hit every major muscle group with a small number of exercises.
-* They more closely resemble ways you will exert your body in real life. They are better at producing practical, useful strength.	
+* They more closely resemble ways you will exert your body in real life. They are better at producing practical, useful strength.
+
+You should only be able to perform a few reps of an exercise when strength training. Doing 50 half-pushups will do nothing. The goal is NOT to perform as many reps as you can. The goal is to perform an exercise that is difficult to the point where you can only do 1-12 reps with perfect form before failure.
 
 Here's a list of various barbell, dumbbell, or bodyweight routines you can choose from: https://thefitness.wiki/routines/strength-training-muscle-building/
 
