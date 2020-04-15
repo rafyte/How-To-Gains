@@ -132,7 +132,7 @@ My personal workout routine is derived from the above programs.
 #### My Workout
 My program is similar to Chris Heria's in the way it's based on "regressing through failure". The method is described clearly in his Pullup video above.
 
-My training program is broken down into 3 different strenght training routines (Pull, Push, Legs & Core), plus an occasional cardio routine.
+My training program is broken down into 3 different strenght training routines (`Pull`, `Push`, `Legs & Core`), plus an occasional cardio routine.
 
 Perform warmup. Each warmup exercise should be roughly 10 reps.
 
@@ -151,7 +151,7 @@ Perform each rep of each exercises slowly and controlled. The idea is to keep th
 
 Make sure to perform full range of motion. For example, for a pushup you should practically touch the floor and extend completely for every rep.
 
-Pull workout time: ~40 mins. Push workout time: ~60 mins. Legs & Core workout time: ~55 mins.
+`Pull` workout time: ~35 mins. `Push` workout time: ~55 mins. `Legs & Core` workout time: ~45 mins.
 
 Weekly schedule:
 
