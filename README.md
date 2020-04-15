@@ -1,11 +1,10 @@
-# A Guide 💪
-Quotes, data, excerpts, and other info from:
+Resources:
 * https://thefitness.wiki/
 * https://examine.com/
 * https://www.strongerbyscience.com/
 * https://leangains.com/fuckarounditis/
 
-## TRAINING
+## 💪 TRAINING
 
 ### Why Everyone Should Do Strength Training
 Strength/resistance training are sometimes misunderstood by people who are unfamiliar with it. This type of training is not just for powerlifters and bodybuilders. Gaining strength and muscle have numerous health and lifestyle benefits. For well rounded fitness pursuits, it’s a very good idea to do some strength training even if it’s not your primary focus. Here are some of the benefits:
@@ -82,7 +81,7 @@ It's much better to do one perfect pushup than five imperfect ones.
 
 > squats, deadlifts, bench presses, chin-ups, triceps extensions and calf raises
 
-## NUTRITION
+## 🍜 NUTRITION
 
 ### A diet is not a temporary change, it's a lifestyle change
 This doesn't mean radically changing what you eat and being unhappy.
