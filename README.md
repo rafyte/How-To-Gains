@@ -149,11 +149,17 @@ Once you can perform 12 perfect-reps of a progression, move to the next progress
 
 Perform each rep of each exercises slowly and controlled. The idea is to keep the muscles under tension for as long as possible. For example, for jump squats, don't just do quick half-jumps; that's just cardio. Land softly and controlled into a full deep squat, all the way down, and explode upwards into a jump. Prioritize perfec-form from the start.
 
-Make sure to perform full range of motion. For example, for a pushup you should practically touch the floor and extend completely for every rep. 
+Make sure to perform full range of motion. For example, for a pushup you should practically touch the floor and extend completely for every rep.
+
+Pull workout time: ~40 mins. Push workout time: ~60 mins. Legs & Core workout time: ~55 mins.
+
+Schedule:
+
+| `PULL` | _rest_ | `LEGS & CORE` | _rest_ | `PUSH` | _rest_ | _rest_ |
 
 **Pull**
 
-| Warmup                | Chin-up Progression      | Pullup Progression       |
+| Warmup                | Chin-up Progression (x3) | Pullup Progression (x3)  |
 |-----------------------|--------------------------|--------------------------|
 | Neck & Shoulder Rolls | One-arm Chin-ups         | One-arm Pullups          |
 | Band Dislocates       | Assited One-arm Chin-ups | Assisted One-arm Pullups |
@@ -166,11 +172,11 @@ Make sure to perform full range of motion. For example, for a pushup you should 
 
 **Push**
 
-| Warmup                | Handstand Progression      | Pushup Progression       | Dip Progression   |
-|-----------------------|----------------------------|--------------------------|-------------------|
-| Neck & Shoulder Rolls | Handstand Pushups          | Deep Pushups             | Dips              |
-| Band Dislocates       | Negative Handstand Pushups | Pushups                  | Negative Dips     |
-| Cat-camel Bends       | Elevated Pike Pushups      | Negative Pushups         | Leg-assisted Dips |
+| Warmup                | Handstand Progression (x3) | Pushup Progression (x3)  | Dip Progression (x3) |
+|-----------------------|----------------------------|--------------------------|----------------------|
+| Neck & Shoulder Rolls | Handstand Pushups          | Deep Pushups             | Dips                 |
+| Band Dislocates       | Negative Handstand Pushups | Pushups                  | Negative Dips        |
+| Cat-camel Bends       | Elevated Pike Pushups      | Negative Pushups         | Leg-assisted Dips    |
 | Wrist Mobility        | Pike Pushup                | 45-degree Pushups        |
 | Angel-Devils          | Negative Pike Pushup       | Knee Pushups             |
 | Bear Crawl            | Pike Hold                  | Negative Knee Pushups    |
@@ -178,13 +184,13 @@ Make sure to perform full range of motion. For example, for a pushup you should 
 
 **Legs & Core**
 
-| Warmup                    | Squat Progression | Lunge Progression | L-Sit Progression  |
-|---------------------------|-------------------|-------------------|--------------------|
-| Ankle Mobility            | Pistol Squats     | Sprinter Lunge    | L-Sit              |
-| Leg Swings (forward-back) | Box Pistol Squats | Heel Touches      | L-Sit Leg-switches |
-| Leg Swings (side-to-side) | Jump Squats       |                   | Raised Knee Hold   |
-| Bodyweight Squats         | Bodyweight Squats |                   | Leg Raises         |
-                                                                    | Knee Raises        |
+| Warmup                    | Squat Progression (x3) | Lunge Progression (x3) | L-Sit Progression (x3) |
+|---------------------------|------------------------|------------------------|------------------------|
+| Ankle Mobility            | Pistol Squats          | Sprinter Lunge         | L-Sit                  |
+| Leg Swings (forward-back) | Box Pistol Squats      | Heel Touches           | L-Sit Leg-switches     |
+| Leg Swings (side-to-side) | Jump Squats            |                        | Raised Knee Hold       |
+| Bodyweight Squats         | Bodyweight Squats      |                        | Leg Raises             |
+|                           |                        |                        | Knee Raises            |
 
 
 # 🍜 NUTRITION
