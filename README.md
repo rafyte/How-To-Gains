@@ -195,8 +195,8 @@ Weekly schedule:
 
 # 🍜 NUTRITION
 
-### A diet is not a temporary change, it's a lifestyle change
-This doesn't mean radically changing what you eat and being unhappy.
+### A diet is not a temporary change
+A diet is what you eat day to day, throughout your life. Not something you follow for a short period of time. You must be willing to treat this as a change to your lifestyle.
 
 ### You cannot out-train a bad diet
 You can eat 100 calories in a second. Burning 100 calories take much more effort.
