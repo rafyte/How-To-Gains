@@ -249,13 +249,13 @@ Expect to be hungry. You may not be used to feeling hungry often, or even at all
 * Fruits
 * Vegetables
 * Nuts & Legumes
- * Beans
- * Tofu
- * Lentils
+  * Beans
+  * Tofu
+  * Lentils
 * Healthy Fats
- * Olive oil
- * Vegetable Oil
- * Peanut Butter
+  * Olive oil
+  * Vegetable Oil
+  * Peanut Butter
  
 `Lean Animal Proteins (White meats, aka non-mammal)`
 
