@@ -107,7 +107,7 @@ These routines should be made up of a few compound exercises consisting of pulli
 * They allow you to work out more efficiently. You can hit every major muscle group with a small number of exercises.
 * They more closely resemble ways you will exert your body in real life. They are better at producing practical, useful strength.
 
-You should only be able to perform a few reps of an exercise when strength training. Doing 50 half-pushups will do nothing. The goal is NOT to perform as many reps as you can. The goal is to perform an exercise that is difficult to the point where you can only do 1-12 reps with perfect form before failure.
+You should only be able to perform a few reps of an exercise when strength training. Doing 50 half-pushups will do nothing. The goal is NOT to perform as many reps as you can. The goal is to perform an exercise that is difficult to the point where you can only do 1-12 reps with perfect form before failure. If you can do 12 perfect-form reps of an exercise, it's time to add weight or move to next bodyweight progression.
 
 Here's a list of various barbell, dumbbell, or bodyweight routines you can choose from: https://thefitness.wiki/routines/strength-training-muscle-building/
 
