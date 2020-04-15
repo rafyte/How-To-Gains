@@ -77,9 +77,38 @@ Training is where you damage the muscle fibers. This causes the body to rebuild 
 ### Learn good form from the start
 It's much better to do one perfect pushup than five imperfect ones.
 
-## WORKOUT ROUTINE
+## WORKOUT ROUTINES
 
-> squats, deadlifts, bench presses, chin-ups, triceps extensions and calf raises
+There is no one perfect routine, there are many ways to achieve your goals. Effort and consistency over time in both training and eating in accordance with your goals are more important than what specific routine you choose.
+
+The most important factors to consider are these:
+* If you have access to all of the equipment that the routine requires, or can make reasonable substitutions
+* If you can handle the time investment the routine requires – in session time, number of days per week, and schedule layout
+
+Workout routines can be broken down into:
+* Cardio
+  * Low-Intesity Steady State (LISS)
+  * High-Intensity Interval Training (HIIT)
+* Strength
+  * Calisthenics / Bodyweight
+  * Weightlifting
+* Mobility / Flexibility
+
+### Cardio
+If your goal is not to lose weight, you can keep cardio sessions to once per week. Here's a list of routines you can choose from: https://thefitness.wiki/routines/cardio-and-conditioning/
+* [Couch to 5k](https://runmoreapp.com/couch-to-5k) is a great running program (LISS)
+* [8-Week HIIT](https://www.bodybuilding.com/content/ultimate-8-week-hiit-for-fat-burning-program.html) is a great HIIT progam
+
+### Strength Training
+These routines should be made up of a few compound exercises consisting of pulling and pushing movements for upper and lower body.
+Here's a list of various barbell, dumbbell, or bodyweight routines you can choose from: https://thefitness.wiki/routines/strength-training-muscle-building/
+My focus is on calisthenic training. Great beginner ones are:
+* [/r/bodyweightfitness Recommended Routine](https://old.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine)
+* [Start Bodyweight](http://www.startbodyweight.com/p/start-bodyweight-basic-routine.html)
+* [Chris Heria's Start Calisthenics](https://www.youtube.com/watch?v=kIVxdIWy7Eo)
+  * [Pullups](https://www.youtube.com/watch?v=tB3X4TjTIes&t=2s)
+  * [Pushups & Dips](https://www.youtube.com/watch?v=GdISLQcG8BA&t=4s)
+  * [L-Sit & Pistol Squat](https://www.youtube.com/watch?v=flQVCWBuVgk)
 
 # 🍜 NUTRITION
 
