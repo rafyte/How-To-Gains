@@ -245,6 +245,7 @@ Expect to be hungry. You may not be used to feeling hungry often, or even at all
 A healthy diet should mostly consist of:
 
 `Plant Foods`
+
 * Fruits
 * Vegetables
 * Nuts & Legumes
@@ -255,21 +256,29 @@ A healthy diet should mostly consist of:
  * Olive oil
  * Vegetable Oil
  * Peanut Butter
+ 
 `Lean Animal Proteins (White meats, aka non-mammal)`
+
 * Chicken
 * Turkey
 * Fish & other seafood
 * Eggs
+
 `Whole Grains (dark grains)`
+
 * Whole wheat Bread / Bagels
 * Whole grain Pasta
 * Brown Rice
 * Whole grain Oatmeal
 * Whole grain Cereal
+
 `Dairy (low/non-fat, low sugar/sugar-free)`
+
 * Greek Yogurt
 * Milk
+
 `Beverages (low sugar/sugar-free)`
+
 * Water & other non-calorie drinks
 * Coffee
 * Tea
@@ -277,20 +286,28 @@ A healthy diet should mostly consist of:
 Try to avoid these items. This doesn't mean completely avoid them, just limit them.
 
 `Sweetened Beverages`
+
 * Soda
 * Energy Drinks
 * Frappe/Latte/etc.
+
 `Sweetened Dairy`
+
 * Ice cream
 * Pastries
+
 `Red Meat (mammal)`
+
 * Steak
 * Beef
 * Lamb
+
 `Processed Meats`
+
 * Bacon
 * Hotdogs
 * Salami
 * Pepperoni
 * Cold cuts & "deli meats"
+
 `Fried Foods`
