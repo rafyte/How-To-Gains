@@ -153,7 +153,9 @@ Make sure to perform full range of motion. For example, for a pushup you should 
 
 Pull workout time: ~40 mins. Push workout time: ~60 mins. Legs & Core workout time: ~55 mins.
 
-Schedule: `PULL` _rest_ `LEGS & CORE` _rest_ `PUSH` _rest_ _rest_
+Weekly schedule:
+
+`PULL` _rest_ `LEGS & CORE` _rest_ `PUSH` _rest_ _rest_
 
 **Pull**
 
