@@ -310,6 +310,13 @@ Expect to be hungry. You may not be used to feeling hungry often, or even at all
 `Sweetened Dairy`
 
 * Ice cream
+* Yogurt
+
+`Refined Grains`
+
+* White Bread
+* Sugary Cereal
+* White Rice
 * Pastries
 
 `Red Meat (mammal)`
