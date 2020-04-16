@@ -72,7 +72,7 @@ This is the only way you can fairly evaluate your progress and see if you’re h
 Strength is strength. Cardio is cardio. Don’t mix, keep them separate.
 
 ### You need a good training routine, and good diet, and lots of rest
-Training is where you damage the muscle fibers. This causes the body to rebuild the muscle fibers stronger and bigger. Recovery (NOT training) is when the muscles are rebuilt. You need good quality sleep to rebuild muscle. The body uses your diet to rebuild the muscle fiber. A bad diet doesn't give the body anything to rebuild with.
+Training is when you damage the muscle fibers. This causes the body to rebuild the muscle fibers stronger and bigger. Recovery is when the muscles are rebuilt; you need good quality sleep to rebuild muscle. Your diet is what your body uses to rebuild the muscle fiber. A bad diet doesn't give the body anything to rebuild with.
 
 ### Learn good form from the start
 It's much better to do one perfect pushup than five imperfect ones.
