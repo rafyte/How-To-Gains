@@ -6,6 +6,12 @@ Resources:
 * <https://examine.com>
 * <https://www.strongerbyscience.com>
 * <https://leangains.com/fuckarounditis>
+* YouTube:
+  * [Chris Heria](https://www.youtube.com/channel/UCaBqRxHEMomgFU-AkSfodCw/featured)
+  * [Official THENX](https://www.youtube.com/user/TheMiamiTrainer)
+  * [Jeff Nippard](https://www.youtube.com/user/icecream4PRs)
+  * [Jeremy Ethier](https://www.youtube.com/channel/UCERm5yFZ1SptUEU4wZ2vJvw)
+  * [Athlean-X](https://www.youtube.com/user/JDCav24)
 
 # 💪 TRAINING
 
