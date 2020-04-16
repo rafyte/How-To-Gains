@@ -185,11 +185,11 @@ Weekly schedule:
 |-----------------------|----------------------------|--------------------------|----------------------|
 | Neck & Shoulder Rolls | Handstand Pushups          | Deep Pushups             | Dips                 |
 | Band Dislocates       | Negative Handstand Pushups | Pushups                  | Negative Dips        |
-| Cat-camel Bends       | Elevated Pike Pushups      | Negative Pushups         | Leg-assisted Dips    |
-| Wrist Mobility        | Pike Pushup                | 45-degree Pushups        |
-| Angel-Devils          | Negative Pike Pushup       | Knee Pushups             |
-| Bear Crawl            | Pike Hold                  | Negative Knee Pushups    |
-| Crab Walks            |
+| Cat-camel Bends       | Handstand                  | Negative Pushups         | Leg-assisted Dips    |
+| Wrist Mobility        | Elevated Pike Pushups      | 45-degree Pushups        |
+| Angel-Devils          | Pike Pushup                | Knee Pushups             |
+| Bear Crawl            | Negative Pike Pushup       | Negative Knee Pushups    |
+| Crab Walks            | Pike Hold                  |
 
 **Legs & Core**
 
