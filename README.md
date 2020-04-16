@@ -277,6 +277,7 @@ Expect to be hungry. You may not be used to feeling hungry often, or even at all
 * Brown Rice
 * Whole grain Oatmeal
 * Whole grain Cereal
+* Whole grain Granola
 
 `Dairy (low/non-fat, low sugar/sugar-free)`
 
