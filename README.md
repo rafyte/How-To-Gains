@@ -156,7 +156,7 @@ For each exercise:
 
 Once you can perform 12 perfect-reps of a progression (or hold for 20 seconds, if it's a hold) for 3 sets, move to the next progression up when you do your next workout. If you can perform 12 perfect-reps of the highest progression, it's time to add weights.
 
-Perform each rep of each exercises slowly and controlled. The idea is to keep the muscles under tension for as long as possible. For example, for jump squats, don't just do quick half-jumps; that's just cardio. Land softly and controlled into a full deep squat, all the way down, and explode upwards into a jump. Prioritize perfec-form from the start.
+Perform each rep of each exercises slowly and controlled. The idea is to keep the muscles under tension for as long as possible. For example, for jump squats, don't just do quick half-jumps; that's just cardio. Land softly and controlled into a full deep squat, all the way down, and explode upwards into a jump. Prioritize perfect-form from the start.
 
 Make sure to perform full range of motion. For example, for a pushup you should practically touch the floor and extend completely for every rep.
 
