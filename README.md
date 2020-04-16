@@ -33,7 +33,7 @@ Like strength training, cardiovascular exercise is an important component of a w
 * May improve gut health
 * May improve mental health and mood
 
-### Keep it simple Don't overthink it or get overwhelmed by the huge amount of information online. Most people overcomplicate workouts and diet. Focus on a few compound movements, and a few healthy food groups that provide the most benefits.
+### Keep it simple. Don't overthink it or get overwhelmed by the huge amount of information online. Most people overcomplicate workouts and diet. Focus on a few compound movements, and a few healthy food groups that provide the most benefits.
 
 ### There are many workout terms out there, most don't actually mean anything
 e.g. there's no such think as "toning". Only worry about two things:
