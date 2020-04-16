@@ -117,7 +117,7 @@ You should only be able to perform a few reps of an exercise when strength train
 
 Here's a list of various barbell, dumbbell, or bodyweight routines you can choose from: <https://thefitness.wiki/routines/strength-training-muscle-building/>
 
-All good bodyweight workouts are very similar to each other, and all good weightlifting workouts are very similar because they focus on the fundamental compound movements.
+All good bodyweight workouts are very similar to each other, and all good weightlifting workouts are very similar to each other because they both focus on the fundamental compound movements.
 
 My focus is on calisthenic training. Great beginner ones are:
 * [/r/bodyweightfitness Recommended Routine](https://old.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine)
