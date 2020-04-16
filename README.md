@@ -335,4 +335,4 @@ Expect to be hungry. You may not be used to feeling hungry often, or even at all
 
 `Fried Foods`
 
-These are not comprehensive lists, just a few examples of food in each group.
+These are not comprehensive lists, just a few examples of foods in each group.
