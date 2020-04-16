@@ -327,3 +327,5 @@ Expect to be hungry. You may not be used to feeling hungry often, or even at all
 * Cold cuts & "deli meats"
 
 `Fried Foods`
+
+These are not comprehensive lists, just a few examples of food in each group.
