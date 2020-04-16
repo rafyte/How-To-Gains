@@ -213,7 +213,7 @@ You don’t need to obsess over tracking calories and food to start – in fact,
 ### Eat protein
 What matters most after calories is protein. It’s important to ensure that you eat enough protein each day to fuel the process of building muscle. To maximize the benefit for building muscle, you’ll want to consume roughly 1g of protein for every pound you weight per day (i.e. if you weight 140lbs, aim to eat at least 140g of protein per day).
 
-Focus on calories and protein. Tracking macro/micronutrients and taking supplements is unneccessary for most people.
+Focus on calories and protein. Tracking macro/micronutrients and taking supplements is unneccessary for most people. The only exception is protein supplement, if you need help reaching protein intake goals. Best protein supplements can be found here: <https://labdoor.com/rankings/protein?filter=quality>
 
 ### There's no perfect diet
 There are many dietary strategies and they can all work, so follow whichever one is easiest for you to stick with – because it’s really all about calories, protein, and just generally eating well.
