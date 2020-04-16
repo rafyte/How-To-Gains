@@ -129,7 +129,7 @@ My focus is on calisthenic training. Great beginner ones are:
   
 My personal workout routine is derived from the above programs.
 
-#### My Workout
+### My Workout
 My program is similar to Chris Heria's in the way it's based on "regressing through failure". The method is described clearly in his Pullup video above.
 
 My training program is broken down into 3 different strenght training routines (`Pull`, `Push`, `Legs & Core`), plus an occasional cardio routine.
