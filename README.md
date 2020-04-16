@@ -1,5 +1,8 @@
 Resources:
 * <https://thefitness.wiki>
+* <http://liamrosen.com/fitness.html>
+* <https://health.gov/our-work/food-nutrition/2015-2020-dietary-guidelines/guidelines/executive-summary/#guidelines>
+* <https://en.wikipedia.org/wiki/Healthy_diet>
 * <https://examine.com>
 * <https://www.strongerbyscience.com>
 * <https://leangains.com/fuckarounditis>
