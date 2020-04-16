@@ -150,9 +150,9 @@ For each exercise:
 2. Perform your highest progression until failure.
 3. Immediately move to one progression below and perform until failure. For example, if you reach failure at 5 pullups, immediately start negative pullups until failure.
 4. Immediately move to another progression below (two below highest progression) and perform until failure.
-5. Rest for 2.5 to 3 minutes before next set
-6. Perform 3 sets of each exercise in this manner
-7. Rest for 2.5 to 3 minutes before moving on to next exercise
+5. Rest for 2.5 to 3 minutes before next set.
+6. Perform 3 sets of each exercise in this manner.
+7. Rest for 2.5 to 3 minutes before moving on to next exercise.
 
 Once you can perform 12 perfect-reps of a progression (or hold for 20 seconds, if it's a hold) for 3 sets, move to the next progression up when you do your next workout. If you can perform 12 perfect-reps of the highest progression, it's time to add weights.
 
