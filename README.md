@@ -154,7 +154,7 @@ For each Progression Exercise:
 6. Perform 3 sets of each Exercise Progression in this manner
 7. Rest for 2.5 to 3 minutes before moving on to next exercise
 
-Once you can perform 12 perfect-reps of a progression, move to the next progression up for your next workout. If you can perform 12 perfect-reps of the highest progression, it's time to add weights.
+Once you can perform 12 perfect-reps of a progression (or hold for 20 seconds, if it's a hold) for 3 sets, move to the next progression up when you do your next workout. If you can perform 12 perfect-reps of the highest progression, it's time to add weights.
 
 Perform each rep of each exercises slowly and controlled. The idea is to keep the muscles under tension for as long as possible. For example, for jump squats, don't just do quick half-jumps; that's just cardio. Land softly and controlled into a full deep squat, all the way down, and explode upwards into a jump. Prioritize perfec-form from the start.
 
