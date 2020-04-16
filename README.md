@@ -199,15 +199,21 @@ Weekly schedule:
 A diet is what you eat day to day, throughout your life. Not something you follow for a short period of time. You must be willing to treat this as a change to your lifestyle.
 
 ### You cannot out-train a bad diet
-You can eat 100 calories in a second. Burning 100 calories take much more effort.
+You can eat 100 calories in a second. Burning 100 calories take much more effort. It does not matter how consistent and hard you train, if you have a bad diet you will not lose fat. It does not matter how consistent and hard you train, if you have a bad diet you will not build muscle.
 
 ### Understand calories
-Your body requires a certain amount of energy (measured in calories) each day in order to fuel its activities. This is called your Total Daily Energy Expenditure or TDEE. If your diet supplies fewer calories than your TDEE (a deficit), you will lose weight. If your diet supplies more calories than your TDEE (a surplus), you will gain weight. Eat 10-20% fewer calories to lose weight, eat 10-20% more calories to gain weight. One pound of bodyweight is 3500 calories.
+Your body requires a certain amount of energy (measured in calories) each day in order to fuel its activities. This is called your Total Daily Energy Expenditure or TDEE.
+* If eat fewer calories than your TDEE (a deficit), you will lose weight.
+* If eat more calories than your TDEE (a surplus), you will gain weight.
 
-You don’t necessarily need to dive in to meticulous tracking of calories and food to start – in fact, sometimes doing so can be overwhelming and therefore detrimental. However, if you’re having trouble gaining or losing the weight you want over a period of time, at some point you’re probably going to have to start paying attention to and manipulating your caloric balance.
+Eat 10-20% fewer calories than your TDEE to healthily lose weight, eat 10-20% more calories than your TDEE to healthily gain weight. One pound of bodyweight is 3500 calories.
+
+You don’t need to obsess over tracking calories and food to start – in fact, sometimes doing so can be overwhelming and therefore detrimental. However, if you’re having trouble gaining or losing the weight you want over a period of time, at some point you’re probably going to have to start paying attention to and manipulating your caloric balance.
 
 ### Eat protein
-What matters most after calories is protein. It’s important to ensure that you eat enough protein each day to fuel the process of building muscle. To maximize the benefit for building muscle, you’ll want to consume roughly 1g of protein for every pound you weight per day (i.e. if you weight 140lbs, aim to eat 140g of protein per day).
+What matters most after calories is protein. It’s important to ensure that you eat enough protein each day to fuel the process of building muscle. To maximize the benefit for building muscle, you’ll want to consume roughly 1g of protein for every pound you weight per day (i.e. if you weight 140lbs, aim to eat at least 140g of protein per day).
+
+Focus on calories and protein. Tracking macro/micronutrients and taking supplements is unneccessary for most people.
 
 ### There's no perfect diet
 There are many dietary strategies and they can all work, so follow whichever one is easiest for you to stick with – because it’s really all about calories, protein, and just generally eating well.
