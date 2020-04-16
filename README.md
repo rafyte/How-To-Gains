@@ -168,14 +168,14 @@ Weekly schedule:
 
 **Pull**
 
-| Warmup                | Chin-up Progression (x3) | Pullup Progression (x3)  |
-|-----------------------|--------------------------|--------------------------|
-| Neck & Shoulder Rolls | One-arm Chin-ups         | One-arm Pullups          |
-| Band Dislocates       | Assited One-arm Chin-ups | Assisted One-arm Pullups |
-| Cat-camel Bends       | Chin-ups                 | Pullups                  |
-| Wrist Mobility        | Negative Chin-ups        | Negative Pullups         |
-| Angel-Devils          | Australian Chin-ups      | Australian Pullups       |
-| Bear Crawl            |
+| Warmup                | Chin-up Progression (x3)  | Pullup Progression (x3)  |
+|-----------------------|---------------------------|--------------------------|
+| Neck & Shoulder Rolls | One-arm Chin-ups          | One-arm Pullups          |
+| Band Dislocates       | Assisted One-arm Chin-ups | Assisted One-arm Pullups |
+| Cat-camel Bends       | Negative One-arm Chin-ups | Negative One-arm Pullups |
+| Wrist Mobility        | Chin-ups                  | Pullups                  |
+| Angel-Devils          | Negative Chin-ups         | Negative Pullups         |
+| Bear Crawl            | Australian Chin-ups       | Australian Pullups       |
 | Crab Walks            |
 
 
