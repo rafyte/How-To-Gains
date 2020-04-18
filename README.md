@@ -59,10 +59,10 @@ e.g. there's no such think as "toning". Only worry about two things:
 All other factors – including taking supplements – will have extremely minimal impact on your success. It is important to put the majority of your focus on dialing these five factors.
 
 ### Don't exercise, _train_
-This means don't just do random workouts or movements. Create a plan, and stick to it.
+This means don't just do random workouts every once in a while. Create a plan, and stick to it.
 
 ### Don't depend on motivation
-Motivation means you have to be in a certain mood or mindset to do something. Training should be best on discipline. Make it a habit, something you just have to do.
+Motivation means you have to be in a certain mood or mindset to do something. Training should be based on discipline. Make it a habit, something you just have to do.
 
 ### Change takes time
 Don't expect immediate results. Complete beginners can _maybe_ expect to see results after two weeks on consistent training and diet. Weight loss target should be roughly 1 lb per week (52 lbs per year), muscle gain target should be roughly 0.5 lbs per week (26 lbs per year).
@@ -136,17 +136,17 @@ My focus is on calisthenic training. Great beginner ones are:
   * [Pushups & Dips](https://www.youtube.com/watch?v=GdISLQcG8BA&t=4s)
   * [L-Sit & Pistol Squat](https://www.youtube.com/watch?v=flQVCWBuVgk)
   
-My personal workout routine is derived from the above programs.
+These are great because they're a single full-body workout you can do in one day. My personal workout routine is derived from the above programs, but it is broken into three different days.
 
 ### My Workout
-You cannot adjust the difficulty of bodyweight exercises like with weight training by simply adding or removing plates of weight. Therefore, in order to effectively increase or decrease the difficulty, you need to use different variations, or "progressions" of a type of exercise. My program is similar to Chris Heria's in that it's based on moving down progressions of an exercise after failure. The method is described clearly in his Pullup video above.
+You cannot adjust the difficulty of bodyweight exercises like with weight training by simply adding or removing plates of weight. Therefore, in order to effectively increase or decrease the difficulty, you need to use different variations, or "progressions" of a type of exercise. My program is similar to Chris Heria's in that it's based on moving down though progressions of an exercise failure after failure. The method is described clearly in his Pullup video above.
 
-My training program is broken down into 3 different strenght training routines (`Pull`, `Push`, `Legs & Core`), plus an occasional cardio routine.
+My training program is broken down into 3 different strenght training routines (`Pull`, `Push`, `Legs & Core`), plus occasional cardio.
 
 Perform warmup. Each warmup exercise should be roughly 10 reps.
 
 For each exercise:
-1. Find the progression you are at. If you cannot perform more than 12 perfect-form reps of a progression, that is the progression you're at.
+1. Find the progression you are at. If you cannot perform more than 12 perfect-form reps of a progression (or hold with perfect form for 20 seconds, if it's a hold), that is the progression you're at.
 2. Perform your highest progression until failure.
 3. Immediately move to one progression below and perform until failure. For example, if you reach failure at 5 pullups, immediately start negative pullups until failure.
 4. Immediately move to another progression down (two below highest progression) and perform until failure.
@@ -154,17 +154,11 @@ For each exercise:
 6. Perform 3 sets of each exercise in this manner.
 7. Rest for 2.5 to 3 minutes before moving on to next exercise.
 
-Once you can perform 12 perfect-reps of a progression (or hold for 20 seconds, if it's a hold) for 3 sets, move to the next progression up when you do your next workout. If you can perform 12 perfect-reps of the highest progression, it's time to add weights.
+Once you can perform 12 perfect-reps of a progression (or hold with perfect form for 20 seconds, if it's a hold) for 3 sets, move to the next progression up when you do your next workout. If you can perform 12 perfect-reps of the highest progression, it's time to add weights.
 
-Perform each rep of each exercises slowly and controlled. The idea is to keep the muscles under tension for as long as possible. For example, for jump squats, don't just do quick half-jumps; that's just cardio. Land softly and controlled into a full deep squat, all the way down, and explode upwards into a jump. Prioritize perfect-form from the start.
+Perform each rep of each exercises slowly and controlled. The idea is to keep the muscles under tension for as long as possible. For example, for jump squats, don't just do quick half-jumps; that's just cardio. Land softly and controlled into a full deep squat, all the way down, and explode upwards into a jump.
 
-Make sure to perform full range of motion. For example, for a pushup you should practically touch the floor and extend completely for every rep.
-
-`Pull` workout time: ~35 mins. `Push` workout time: ~55 mins. `Legs & Core` workout time: ~45 mins.
-
-Weekly schedule:
-
-`PULL` _rest_ `LEGS & CORE` _rest_ `PUSH` _rest_ _rest_
+Prioritize perfect-form from the start. Make sure to perform full range of motion. For example, for a pushup you should practically touch the floor and extend completely for every rep.
 
 **Pull**
 
@@ -174,7 +168,7 @@ Weekly schedule:
 | Band Dislocates       | Assisted One-arm Chin-ups | Assisted One-arm Pullups |
 | Cat-camel Bends       | Negative One-arm Chin-ups | Negative One-arm Pullups |
 | Wrist Mobility        | Chin-ups                  | Pullups                  |
-| Angel-Devils          | Negative Chin-ups         | Negative Pullups         |
+| Angels & Devils       | Negative Chin-ups         | Negative Pullups         |
 | Bear Crawl            | Australian Chin-ups       | Australian Pullups       |
 | Crab Walks            |
 
@@ -183,13 +177,13 @@ Weekly schedule:
 
 | Warmup                | Handstand Progression (x3) | Pushup Progression (x3)  | Dip Progression (x3) |
 |-----------------------|----------------------------|--------------------------|----------------------|
-| Neck & Shoulder Rolls | Handstand Pushups          | Deep Pushups             | Dips                 |
-| Band Dislocates       | Negative Handstand Pushups | Pushups                  | Negative Dips        |
-| Cat-camel Bends       | Handstand                  | Negative Pushups         | Leg-assisted Dips    |
-| Wrist Mobility        | Elevated Pike Pushups      | 45-degree Pushups        |
-| Angel-Devils          | Pike Pushup                | Knee Pushups             |
-| Bear Crawl            | Negative Pike Pushup       | Negative Knee Pushups    |
-| Crab Walks            | Pike Hold                  |
+| Neck & Shoulder Rolls | Handstand Pushups          | Explosive Deep Pushups   | Dips                 |
+| Band Dislocates       | Negative Handstand Pushups | Deep Pushups             | Negative Dips        |
+| Cat-camel Bends       | Handstand                  | Explosive Pushups        | Leg-assisted Dips    |
+| Wrist Mobility        | Elevated Pike Pushups      | Pushups                  |
+| Angels & Devils       | Pike Pushup                | Negative Pushups         |
+| Bear Crawl            | Negative Pike Pushup       | Knee Pushups             |
+| Crab Walks            | Pike Hold                  | Negative Knee Pushups
 
 **Legs & Core**
 
@@ -201,6 +195,15 @@ Weekly schedule:
 | Bodyweight Squats         | Bodyweight Squats      |                        | Leg Raises             |
 |                           |                        |                        | Knee Raises            |
 
+`Pull` workout time: ~35 mins.
+
+`Push` workout time: ~55 mins.
+
+`Legs & Core` workout time: ~45 mins.
+
+Weekly schedule:
+
+`PULL` _rest_ `LEGS & CORE` _rest_ `PUSH` _rest/`CARDIO`_ _rest_
 
 # 🍜 NUTRITION
 
