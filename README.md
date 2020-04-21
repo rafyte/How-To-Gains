@@ -139,71 +139,100 @@ My focus is on calisthenic training. Great beginner ones are:
 These are great because they're a single full-body workout you can do in one day. My personal workout routine is derived from the above programs, but it is broken into three different days.
 
 ### My Workout
-You cannot adjust the difficulty of bodyweight exercises like with weight training by simply adding or removing plates of weight. Therefore, in order to effectively increase or decrease the difficulty, you need to use different variations, or "progressions" of a type of exercise. My program is similar to Chris Heria's in that it's based on moving down though progressions of an exercise failure after failure. The method is described clearly in his Pullup video above.
+You cannot adjust the difficulty of bodyweight exercises like with weight training by simply adding or removing plates of weight. Therefore, in order to effectively increase or decrease the difficulty, you need to use different variations, or "progressions" of a type of exercise.
 
-My training program is broken down into 3 different strenght training routines (`Pull`, `Push`, `Legs & Core`), plus occasional cardio.
+My training program is broken down into a full-body strenght routine performed three times a week, plus occasional cardio performed about once per week.
+
+#### Strength Routine
 
 Perform warmup. Each warmup exercise should be roughly 10 reps.
 
+The strength exercises are performed by alternating upper body and lower exercises: Legs (Squat) is paired with Pull, and Legs (Hinge) is paired with Push.
+
+The first time performing this workout you have to determine the progression you are at for each exercise. To do this, simply perform a progression until failure. If you can do more than 12 reps (or hold more than 20s, if it's a hold), go to a harder progression. If you cannot do more than 12 reps (or hold for 20s, if it's a hold), then that is the progression you are at.
+
 For each exercise:
-1. Find the progression you are at. If you cannot perform more than 12 perfect-form reps of a progression (or hold with perfect form for 20 seconds, if it's a hold), that is the progression you're at.
-2. Perform your highest progression until failure.
-3. Immediately move to one progression below and perform until failure. For example, if you reach failure at 5 pullups, immediately start negative pullups until failure.
-4. Immediately move to another progression down (two below highest progression) and perform until failure.
-5. Rest for 2.5 to 3 minutes before next set.
-6. Perform 3 sets of each exercise in this manner.
-7. Rest for 2.5 to 3 minutes before moving on to next exercise.
+1. Perform your highest progression until failure. Failure is when you can no longer perform the exercise with good form.
+2. Immediately continue set, moving one progression down and perform until failure. For example, if you reach failure at 5 pullups, immediately start negative pullups until failure.
+3. Rest for 60s before moving on to the next exercise.
 
-Once you can perform 12 perfect-reps of a progression (or hold with perfect form for 20 seconds, if it's a hold) for 3 sets, move to the next progression up when you do your next workout. If you can perform 12 perfect-reps of the highest progression, it's time to add weights.
+Once you can perform 12 perfect-form reps of a progression (or hold with perfect form for 20 seconds, if it's a hold), move to the next progression up when you do your next workout. If you can perform 12 perfect-reps of the highest progression, it's time to add weights.
 
-Perform each rep of each exercises slowly and controlled. The idea is to keep the muscles under tension for as long as possible. For example, for jump squats, don't just do quick half-jumps; that's just cardio. Land softly and controlled into a full deep squat, all the way down, and explode upwards into a jump.
+Perform each rep of each exercises slowly and controlled. The idea is to keep the muscles under tension for as long as possible. All exercises should be slow and controlled on the way down (~3s) and explosive on the way up. For example, for jump squats, don't just do quick half-jumps; that's just cardio. Land softly and controlled into a full deep squat, all the way down, and explode upwards into a jump.
 
-Prioritize perfect-form from the start. Make sure to perform full range of motion. For example, for a pushup you should practically touch the floor and extend completely for every rep.
+Prioritize perfect-form from the start. Make sure to perform full range of motion for every exercise. For example, for a pushup you should practically touch the floor and extend completely for every rep.
+
+Here are the progressions for every exercises in the routine:
 
 **Pull**
 
-| Warmup                | Chin-up Progression (x3)  | Pullup Progression (x3)  |
-|-----------------------|---------------------------|--------------------------|
-| Neck & Shoulder Rolls | One-arm Chin-ups          | One-arm Pullups          |
-| Band Dislocates       | Assisted One-arm Chin-ups | Assisted One-arm Pullups |
-| Cat-camel Bends       | Negative One-arm Chin-ups | Negative One-arm Pullups |
-| Wrist Mobility        | Chin-ups                  | Pullups                  |
-| Angels & Devils       | Negative Chin-ups         | Negative Pullups         |
-| Bear Crawl            | Australian Chin-ups       | Australian Pullups       |
-| Crab Walks            |
-
+| Chin-up Progression (x3)  | Pullup Progression (x3)  |
+|---------------------------|--------------------------|
+| One-arm Chin-ups          | One-arm Pullups          |
+| Assisted One-arm Chin-ups | Assisted One-arm Pullups |
+| Negative One-arm Chin-ups | Negative One-arm Pullups |
+| Chin-ups                  | Pullups                  |
+| Negative Chin-ups         | Negative Pullups         |
+| Australian Chin-ups       | Australian Pullups       |
 
 **Push**
 
-| Warmup                | Handstand Progression (x3) | Pushup Progression (x3)  | Dip Progression (x3) |
-|-----------------------|----------------------------|--------------------------|----------------------|
-| Neck & Shoulder Rolls | Handstand Pushups          | Explosive Deep Pushups   | Dips                 |
-| Band Dislocates       | Negative Handstand Pushups | Deep Pushups             | Negative Dips        |
-| Cat-camel Bends       | Handstand                  | Explosive Pushups        | Leg-assisted Dips    |
-| Wrist Mobility        | Elevated Pike Pushups      | Pushups                  |
-| Angels & Devils       | Pike Pushup                | Negative Pushups         |
-| Bear Crawl            | Negative Pike Pushup       | Knee Pushups             |
-| Crab Walks            | Pike Hold                  | Negative Knee Pushups
+| Handstand Progression (x3) | Pushup Progression (x3)  | Dip Progression (x3) |
+|----------------------------|--------------------------|----------------------|
+| Handstand Pushups          | Explosive Deep Pushups   | Dips                 |
+| Negative Handstand Pushups | Deep Pushups             | Negative Dips        |
+| Handstand                  | Explosive Pushups        | Leg-assisted Dips    |
+| Elevated Pike Pushups      | Pushups                  |
+| Pike Pushup                | Negative Pushups         |
+| Negative Pike Pushup       | Knee Pushups             |
+| Pike Hold                  | Negative Knee Pushups
 
 **Legs & Core**
 
-| Warmup                    | Squat Progression (x3) | Lunge Progression (x3) | L-Sit Progression (x3) |
-|---------------------------|------------------------|------------------------|------------------------|
-| Ankle Mobility            | Pistol Squats          | Sprinter Lunge         | L-Sit                  |
-| Leg Swings (forward-back) | Box Pistol Squats      | Heel Touches           | L-Sit Leg-switches     |
-| Leg Swings (side-to-side) | Jump Squats            |                        | Raised Knee Hold       |
-| Bodyweight Squats         | Bodyweight Squats      |                        | Leg Raises             |
-|                           |                        |                        | Knee Raises            |
+| Squat Progression (x3) | Hinge Progression (x3) |
+|------------------------|------------------------|
+| Pistol Squats          | Sprinter Lunge         | 
+| Box Pistol Squats      | Heel Touches           | 
+| Jump Squats            |                        | 
+| Bodyweight Squats      |                        | 
+|                        |                        |
 
-`Pull` workout time: ~35 mins.
+The strength routine:
 
-`Push` workout time: ~55 mins.
+Warmup
+* Shoulder Band Work
+* Squat Sky-Reaches
+* Cat-Camel Bends
+* Wrist Mobility
+* Scapular Pullup
+* Jump Pullup
+* Bear Crawl
+* Crab Walk
+* Leg Swings
 
-`Legs & Core` workout time: ~45 mins.
+Pull/Legs(Squat)
+* Pullup Progression `60s rest`
+* Squat Progression `60s rest`
+* Row Progression `60s rest`
+* Squat Progression `60s rest`
+* Chin-Up Progression `60s rest`
+* Squat Progression `60s rest`
+
+`3m rest`
+
+Push/Legs(Hinge)
+
+Workout time: ~45 mins.
+* Pushup Progression `60s rest`
+* Hinge Progression `60s rest`
+* Dip Progression `60s rest`
+* Hinge Progression `60s rest`
+* Handstand Progression `60s rest`
+* Hinge Progression `60s rest`
 
 Weekly schedule:
 
-`PULL` _rest_ `LEGS & CORE` _rest_ `PUSH` _rest/`CARDIO`_ _rest_
+`STRENGTH` _rest_ `STRENGTH` _rest_ `STRENGTH` _rest/`CARDIO`_ _rest_
 
 # 🍜 NUTRITION
 
