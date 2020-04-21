@@ -164,7 +164,7 @@ Here are the progressions for every exercises in the routine:
 
 **Pull**
 
-| Chin-up Progression (x3)  | Pullup Progression (x3)  |
+| Chin-up Progression       | Pullup Progression       |
 |---------------------------|--------------------------|
 | One-arm Chin-ups          | One-arm Pullups          |
 | Assisted One-arm Chin-ups | Assisted One-arm Pullups |
@@ -175,7 +175,7 @@ Here are the progressions for every exercises in the routine:
 
 **Push**
 
-| Handstand Progression (x3) | Pushup Progression (x3)  | Dip Progression (x3) |
+| Handstand Progression      | Pushup Progression       | Dip Progression      |
 |----------------------------|--------------------------|----------------------|
 | Handstand Pushups          | Explosive Deep Pushups   | Dips                 |
 | Negative Handstand Pushups | Deep Pushups             | Negative Dips        |
