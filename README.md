@@ -128,7 +128,9 @@ Here's a list of various barbell, dumbbell, or bodyweight routines you can choos
 
 All good bodyweight workouts are very similar to each other, and all good weightlifting workouts are very similar to each other because they both focus on the fundamental compound movements.
 
-My focus is on calisthenic training. Great beginner ones are:
+My focus is on calisthenic training. You cannot adjust the difficulty of bodyweight exercises like with weight training by simply adding or removing plates of weight. Therefore, in order to effectively increase or decrease the difficulty, you need to use different variations, or "progressions" of a type of exercise.
+
+Great beginner bodyweight routies:
 * [/r/bodyweightfitness Recommended Routine](https://old.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine)
 * [Start Bodyweight](http://www.startbodyweight.com/p/start-bodyweight-basic-routine.html)
 * [Chris Heria's Start Calisthenics](https://www.youtube.com/watch?v=kIVxdIWy7Eo)
@@ -136,20 +138,16 @@ My focus is on calisthenic training. Great beginner ones are:
   * [Pushups & Dips](https://www.youtube.com/watch?v=GdISLQcG8BA&t=4s)
   * [L-Sit & Pistol Squat](https://www.youtube.com/watch?v=flQVCWBuVgk)
   
-These are great because they're a single full-body workout you can do in one day. My personal workout routine is derived from the above programs, but it is broken into three different days.
+These are great because they're a single full-body workout you can do in one day. My personal workout routine is a single full-body workout derived from the above programs.
 
 ### My Workout
-You cannot adjust the difficulty of bodyweight exercises like with weight training by simply adding or removing plates of weight. Therefore, in order to effectively increase or decrease the difficulty, you need to use different variations, or "progressions" of a type of exercise.
-
 My training program is broken down into a full-body strenght routine performed three times a week, plus occasional cardio performed about once per week.
-
-#### Strength Routine
 
 Perform warmup. Each warmup exercise should be roughly 10 reps.
 
-The strength exercises are performed by alternating upper body and lower exercises: Legs (Squat) is paired with Pull, and Legs (Hinge) is paired with Push.
+The strength exercises are performed by alternating upper body and lower exercises: Pull is paired with Legs(Squat), and Push is paired with Legs(Hinge).
 
-The first time performing this workout you have to determine the progression you are at for each exercise. To do this, simply perform a progression until failure. If you can do more than 12 reps (or hold more than 20s, if it's a hold), go to a harder progression. If you cannot do more than 12 reps (or hold for 20s, if it's a hold), then that is the progression you are at.
+The first time performing this workout you have to determine the progression you are at for each exercise. To do this, simply choose a progression and perform until failure. If you can do more than 12 reps (or hold more than 20s, if it's a hold), go to a harder progression. If you cannot do more than 12 reps (or hold for 20s, if it's a hold), then that is the progression you are at.
 
 For each exercise:
 1. Perform your highest progression until failure. Failure is when you can no longer perform the exercise with good form.
@@ -187,7 +185,7 @@ Here are the progressions for every exercises in the routine:
 | Negative Pike Pushup       | Knee Pushups             |
 | Pike Hold                  | Negative Knee Pushups
 
-**Legs & Core**
+**Legs**
 
 | Squat Progression (x3) | Hinge Progression (x3) |
 |------------------------|------------------------|
@@ -197,7 +195,7 @@ Here are the progressions for every exercises in the routine:
 | Bodyweight Squats      |                        | 
 |                        |                        |
 
-The strength routine:
+#### Strength Routine
 
 Warmup
 * Shoulder Band Work
