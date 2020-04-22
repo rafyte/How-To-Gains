@@ -195,9 +195,8 @@ Here are the progressions for every exercises in the routine:
 | Bodyweight Squats      |                        | 
 
 <br/>
-<br/>
 
-### 🦍 Strength Routine
+> ### Strength Routine
 
 #### Warmup
 * Shoulder Band Work
@@ -225,12 +224,15 @@ Here are the progressions for every exercises in the routine:
 * Hinge `60s rest`
 * Handstand `60s rest`
 * Hinge `60s rest`
+<br/>
 
 Workout time: ~45 mins.
 
 Weekly schedule:
 
 `STRENGTH` `rest` `STRENGTH` `rest` `STRENGTH` `rest/CARDIO` `rest`
+
+<br/>
 
 ---
 
