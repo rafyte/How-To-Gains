@@ -169,7 +169,7 @@ Here are the progressions for every exercises in the routine:
 | One-arm Chin-ups          | One-arm Pullups          |
 | Assisted One-arm Chin-ups | Assisted One-arm Pullups |
 | Negative One-arm Chin-ups | Negative One-arm Pullups |
-| Chin-ups                  | Pullups                  |
+| Chin-ups                  | [Pullups](https://www.youtube.com/watch?v=Ww-gNf0ys8M) |
 | Negative Chin-ups         | Negative Pullups         |
 | Australian Chin-ups       | Australian Pullups       |
 
@@ -208,20 +208,20 @@ Here are the progressions for every exercises in the routine:
 * Leg Swings
 
 #### Pull/Legs(Squat)
-* Pullup Progression (regular) `60s rest`
-* Squat Progression `60s rest`
-* Pullup Progression ([Heria](https://www.youtube.com/watch?v=Ww-gNf0ys8M)) `60s rest`
-* Squat Progression `60s rest`
-* Chin-Up Progression `60s rest`
-* Squat Progression `3m rest`
+* Pullup `60s rest`
+* Squat `60s rest`
+* Pullup `60s rest`
+* Squat `60s rest`
+* Chin-Up `60s rest`
+* Squat `3m rest`
 
 #### Push/Legs(Hinge)
-* Pushup Progression `60s rest`
-* Hinge Progression `60s rest`
-* Dip Progression `60s rest`
-* Hinge Progression `60s rest`
-* Handstand Progression `60s rest`
-* Hinge Progression `60s rest`
+* Pushup `60s rest`
+* Hinge `60s rest`
+* Dip `60s rest`
+* Hinge `60s rest`
+* Handstand `60s rest`
+* Hinge `60s rest`
 
 Workout time: ~45 mins.
 
