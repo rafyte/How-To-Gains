@@ -162,28 +162,18 @@ Prioritize perfect-form from the start. Make sure to perform full range of motio
 
 Here are the progressions for every exercises in the routine:
 
-| Warmup             |
-|--------------------|
-| Shoulder Band Work |
-| Squat Sky-Reaches  |
-| Cat-Camel Bends    |
-| Wrist Mobility     |
-| Scapular Pullup    |
-| Jump Pullup        |
-| Bear Crawl         |
-| Crab Walk          |
-| Leg Swings         |
+**Pull**
 
-| Pullup Progression      | Squat Progression | Row Progression *    | Squat Progression | Chin-up Progression       |Squat Progression|
-|--------------------------|-------------------|----------------------|-------------------|---------------------------|----------------|
-| One-arm Pullups          | Pistol Squats     | One-arm Row          | Pistol Squats     | One-arm Chin-ups          | Pistol Squats  |
-| Assisted One-arm Pullups | Box Pistol Squats | Assisted One-arm Row | Box Pistol Squats | Assisted One-arm Chin-ups|Box Pistol Squats|
-| Negative One-arm Pullups | Jump Squats       | Negative One-arm Row | Jump Squats       | Negative One-arm Chin-ups | Jump Squats    |
-| Pullups                  | Bodyweight Squats | Row                  | Bodyweight Squats | Chin-ups                 |Bodyweight Squats|
-| Negative Pullups         |                   | Negative Row         |                   | Negative Chin-ups         |
-| Australian Pullups       |                   | Australian Row       |                   | Australian Chin-ups       |
+| Chin-up Progression       | Pullup Progression       |
+|---------------------------|--------------------------|
+| One-arm Chin-ups          | One-arm Pullups          |
+| Assisted One-arm Chin-ups | Assisted One-arm Pullups |
+| Negative One-arm Chin-ups | Negative One-arm Pullups |
+| Chin-ups                  | Pullups                  |
+| Negative Chin-ups         | Negative Pullups         |
+| Australian Chin-ups       | Australian Pullups       |
 
-\* For this progression, I replace true Rows with [Chris Heria's Row-style Pullups](https://www.youtube.com/watch?v=Ww-gNf0ys8M)
+**Push**
 
 | Handstand Progression      | Pushup Progression       | Dip Progression      |
 |----------------------------|--------------------------|----------------------|
@@ -195,12 +185,46 @@ Here are the progressions for every exercises in the routine:
 | Negative Pike Pushup       | Knee Pushups             |
 | Pike Hold                  | Negative Knee Pushups
 
-| Hinge Progression (x3) |
-|------------------------|
-| Sprinter Lunge         | 
-| Heel Touches           | 
-| Jump Squats            |
-| Bodyweight Squats      |
+**Legs**
+
+| Squat Progression (x3) | Hinge Progression (x3) |
+|------------------------|------------------------|
+| Pistol Squats          | Sprinter Lunge         | 
+| Box Pistol Squats      | Heel Touches           | 
+| Jump Squats            |                        | 
+| Bodyweight Squats      |                        | 
+|                        |                        |
+
+#### Strength Routine
+
+Warmup
+* Shoulder Band Work
+* Squat Sky-Reaches
+* Cat-Camel Bends
+* Wrist Mobility
+* Scapular Pullup
+* Jump Pullup
+* Bear Crawl
+* Crab Walk
+* Leg Swings
+
+Pull/Legs(Squat)
+* Pullup Progression `60s rest`
+* Squat Progression `60s rest`
+* Row Progression `60s rest`
+* Squat Progression `60s rest`
+* Chin-Up Progression `60s rest`
+* Squat Progression `60s rest`
+
+`3m rest`
+
+Push/Legs(Hinge)
+* Pushup Progression `60s rest`
+* Hinge Progression `60s rest`
+* Dip Progression `60s rest`
+* Hinge Progression `60s rest`
+* Handstand Progression `60s rest`
+* Hinge Progression `60s rest`
 
 Workout time: ~45 mins.
 
