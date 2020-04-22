@@ -193,11 +193,10 @@ Here are the progressions for every exercises in the routine:
 | Box Pistol Squats      | Heel Touches           | 
 | Jump Squats            |                        | 
 | Bodyweight Squats      |                        | 
-|                        |                        |
 
-#### Strength Routine
+### Strength Routine
 
-Warmup
+#### Warmup
 * Shoulder Band Work
 * Squat Sky-Reaches
 * Cat-Camel Bends
@@ -208,7 +207,7 @@ Warmup
 * Crab Walk
 * Leg Swings
 
-Pull/Legs(Squat)
+#### Pull/Legs(Squat)
 * Pullup Progression (regular) `60s rest`
 * Squat Progression `60s rest`
 * Pullup Progression ([Heria](https://www.youtube.com/watch?v=Ww-gNf0ys8M)) `60s rest`
@@ -216,7 +215,7 @@ Pull/Legs(Squat)
 * Chin-Up Progression `60s rest`
 * Squat Progression `3m rest`
 
-Push/Legs(Hinge)
+#### Push/Legs(Hinge)
 * Pushup Progression `60s rest`
 * Hinge Progression `60s rest`
 * Dip Progression `60s rest`
@@ -228,7 +227,8 @@ Workout time: ~45 mins.
 
 Weekly schedule:
 
-`STRENGTH` _rest_ `STRENGTH` _rest_ `STRENGTH` _rest/`CARDIO`_ _rest_
+`STRENGTH` `rest` `STRENGTH` `rest` `STRENGTH` `rest/CARDIO` `rest`
+
 
 # 🍜 NUTRITION
 
