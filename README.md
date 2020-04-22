@@ -209,14 +209,12 @@ Warmup
 * Leg Swings
 
 Pull/Legs(Squat)
-* Pullup Progression `60s rest`
+* Pullup Progression (regular) `60s rest`
 * Squat Progression `60s rest`
-* Row Progression `60s rest`
+* Pullup Progression ([Heria](https://www.youtube.com/watch?v=Ww-gNf0ys8M)) `60s rest`
 * Squat Progression `60s rest`
 * Chin-Up Progression `60s rest`
-* Squat Progression `60s rest`
-
-`3m rest`
+* Squat Progression `3m rest`
 
 Push/Legs(Hinge)
 * Pushup Progression `60s rest`
