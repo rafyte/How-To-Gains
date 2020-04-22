@@ -197,7 +197,7 @@ Here are the progressions for every exercises in the routine:
 <br/>
 <br/>
 
-> ### Strength Routine 🦍
+### 🦍 Strength Routine
 
 #### Warmup
 * Shoulder Band Work
