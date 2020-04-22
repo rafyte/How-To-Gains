@@ -194,7 +194,7 @@ Here are the progressions for every exercises in the routine:
 | Jump Squats            |                        | 
 | Bodyweight Squats      |                        | 
 
-### Strength Routine
+> ### Strength Routine
 
 #### Warmup
 * Shoulder Band Work
@@ -229,6 +229,7 @@ Weekly schedule:
 
 `STRENGTH` `rest` `STRENGTH` `rest` `STRENGTH` `rest/CARDIO` `rest`
 
+---
 
 # 🍜 NUTRITION
 
