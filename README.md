@@ -156,7 +156,7 @@ Here are the progressions for every exercises in the routine:
 | One-arm Chin-ups          | One-arm Pullups          |
 | Assisted One-arm Chin-ups | Assisted One-arm Pullups |
 | Negative One-arm Chin-ups | Negative One-arm Pullups |
-| Chin-ups                  | [Pullups](https://www.youtube.com/watch?v=Ww-gNf0ys8M) |
+| Chin-ups                  | Pullups [1](https://www.youtube.com/watch?v=Ww-gNf0ys8M), [2](https://www.youtube.com/watch?v=hkBcTOa21oQ) |
 | Negative Chin-ups         | Negative Pullups         |
 | Australian Chin-ups       | Australian Pullups       |
 
