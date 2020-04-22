@@ -143,22 +143,9 @@ These are great because they're a single full-body workout you can do in one day
 ### My Workout
 My training program is broken down into a full-body strenght routine performed three times a week, plus occasional cardio performed about once per week.
 
-Perform warmup. Each warmup exercise should be roughly 10 reps.
-
 The strength exercises are performed by alternating upper body and lower exercises: Pull is paired with Legs(Squat), and Push is paired with Legs(Hinge).
 
 The first time performing this workout you have to determine the progression you are at for each exercise. To do this, simply choose a progression and perform until failure. If you can do more than 12 reps (or hold more than 20s, if it's a hold), go to a harder progression. If you cannot do more than 12 reps (or hold for 20s, if it's a hold), then that is the progression you are at.
-
-For each exercise:
-1. Perform your highest progression until failure. Failure is when you can no longer perform the exercise with good form.
-2. Immediately continue set, moving one progression down and perform until failure. For example, if you reach failure at 5 pullups, immediately start negative pullups until failure.
-3. Rest for 60s before moving on to the next exercise.
-
-Once you can perform 12 perfect-form reps of a progression (or hold with perfect form for 20 seconds, if it's a hold), move to the next progression up when you do your next workout. If you can perform 12 perfect-reps of the highest progression, it's time to add weights.
-
-Perform each rep of each exercises slowly and controlled. The idea is to keep the muscles under tension for as long as possible. All exercises should be slow and controlled on the way down (~3s) and explosive on the way up. For example, for jump squats, don't just do quick half-jumps; that's just cardio. Land softly and controlled into a full deep squat, all the way down, and explode upwards into a jump.
-
-Prioritize perfect-form from the start. Make sure to perform full range of motion for every exercise. For example, for a pushup you should practically touch the floor and extend completely for every rep.
 
 Here are the progressions for every exercises in the routine:
 
@@ -196,18 +183,30 @@ Here are the progressions for every exercises in the routine:
 
 <br/>
 
+Perform each rep of each exercises slowly and controlled. The idea is to keep the muscles under tension for as long as possible. All exercises should be slow and controlled on the way down (~3s) and explosive on the way up. For example, for jump squats, don't just do quick half-jumps; that's just cardio. Land softly and controlled into a full deep squat, all the way down, and explode upwards into a jump.
+
+Prioritize perfect-form from the start. Make sure to perform full range of motion for every exercise. For example, for a pushup you should practically touch the floor and extend completely for every rep.
+
+Start with the dynamic warmup. Each warmup exercise should be roughly 10 reps.
+
+For each exercise:
+1. Perform your highest progression until failure. Failure is when you can no longer perform the exercise with good form.
+2. Immediately continue set, moving one progression down and perform until failure. For example, if you reach failure at 5 pullups, immediately start negative pullups until failure.
+3. Rest for 60s before moving on to the next exercise.
+
+Once you can perform 12 perfect-form reps of a progression (or hold with perfect form for 20 seconds, if it's a hold), move to the next progression up when you do your next workout. If you can perform 12 perfect-reps of the highest progression, it's time to add weights.
+
 ### Strength Routine
 
 #### Warmup
-* Shoulder Band Work
-* Squat Sky-Reaches
-* Cat-Camel Bends
+* Shoulder Band Dislocates `x10`
+* Squat Sky-Reaches `x10`
+* Cat-Camel Bends `x10`
 * Wrist Mobility
-* Scapular Pullup
-* Jump Pullup
-* Bear Crawl
-* Crab Walk
-* Leg Swings
+* [Active Hang](https://www.youtube.com/watch?v=HoE-C85ZlCE)
+* Bear Crawl `x10 forward, x10 backward`
+* Crab Walk `x10 forward, x10 backward`
+* Leg Swings `x10 side-to-side, x10 front-and-back`
 
 #### Pull/Legs(Squat)
 * Pullup `60s rest`
