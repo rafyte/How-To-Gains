@@ -194,7 +194,10 @@ Here are the progressions for every exercises in the routine:
 | Jump Squats            |                        | 
 | Bodyweight Squats      |                        | 
 
-> ### Strength Routine
+<br/>
+<br/>
+
+> ### Strength Routine 🦍
 
 #### Warmup
 * Shoulder Band Work
