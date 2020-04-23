@@ -174,8 +174,8 @@ Here are the progressions for every exercises in the routine:
 
 **Legs**
 
-| Pistol Squat Progression | [Shrimp Squat Progression](www.reddit.com/r/bodyweightfitness/wiki/exercises/squat) | Hinge Progression  |
-|--------------------------|---------------------------|------------------------------------------------------------------------------|
+| Pistol Squat Progression | [Shrimp Squat Progression](https://www.reddit.com/r/bodyweightfitness/wiki/exercises/squat) | Hinge Progression  |
+|--------------------------|---------------------------|---------------------------------------------------------------------|
 | Pistol Squats            | Advanced Shrimp Squats    | [Glute-Ham Raise](https://www.youtube.com/watch?v=Ae81rtoBpOw#t=8m27s) | 
 | Box Pistol Squats        | Intermediate Shrimp Squat | [Harop Curls](https://www.youtube.com/watch?v=A2xRx7dGWaE)             | 
 | Jump Squats              | Beginner Shrimp Squats    | [Bridge Curls](https://www.youtube.com/watch?v=vc1E5CfRfos#t=10m43s)   | 
@@ -192,7 +192,7 @@ Start with the dynamic warmup. Each warmup exercise should be roughly 10 reps.
 
 For each exercise:
 1. Perform your highest progression until failure. Failure is when you can no longer perform the exercise with good form.
-2. Rest for 60s-90s before moving on to the next exercise.
+2. Rest for 60s-90s before moving on to the next set or exercise.
 
 Once you can perform 12 perfect-form reps of a progression (or hold with perfect form for 20 seconds, if it's a hold), move to the next progression up when you do your next workout. If you can perform 12 perfect-reps of the highest progression, it's time to add weights.
 
