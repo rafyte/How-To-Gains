@@ -207,19 +207,19 @@ Once you can perform 12 perfect-form reps of a progression (or hold with perfect
 * Crab Walk `x10 forward, x10 backward`
 * Leg Swings `x10 side-to-side, x10 front-and-back`
 
-#### Push<sup>(chest)</sup>/Legs
+#### Pair 1
 * Pushup `60s rest` Pistol Squat `60s rest`
 * Pushup `60s rest` Pistol Squat `60s rest`
 * Pushup `60s rest` Pistol Squat `60s rest`
 * Dip `3m rest`
 
-#### Pull/Legs
+#### Pair 2
 * Pullup `60s rest` Shrimp Squat `60s rest`
 * Pullup `60s rest` Shrimp Squat `60s rest`
 * Pullup `60s rest` Shrimp Squat `60s rest`
 * Chin-up `3m rest`
 
-#### Push<sup>(shoulders)</sup>/Legs
+#### Pair 3
 * Handstand `60s rest` Hinge `60s rest`
 * Handstand `60s rest` Hinge `60s rest`
 * Handstand `60s rest` Hinge `60s rest`
