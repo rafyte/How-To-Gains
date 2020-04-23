@@ -196,6 +196,8 @@ For each exercise:
 
 Once you can perform 12 perfect-form reps of a progression (or hold with perfect form for 20 seconds, if it's a hold), move to the next progression up when you do your next workout. If you can perform 12 perfect-reps of the highest progression, it's time to add weights.
 
+If you start with the Pull/Legs pairs one day, start with the Push/Legs pairs the next workout day and alternate each workout.
+
 ### Strength Routine
 
 #### Warmup
@@ -208,7 +210,7 @@ Once you can perform 12 perfect-form reps of a progression (or hold with perfect
 * Crab Walk `x10 forward, x10 backward`
 * Leg Swings `x10 side-to-side, x10 front-and-back`
 
-#### Pull/Legs(Squat)
+#### Pull/Legs
 * Pullup `60s rest`
 * Pistol Squat `60s rest`
 * Pullup `60s rest`
@@ -216,7 +218,7 @@ Once you can perform 12 perfect-form reps of a progression (or hold with perfect
 * Chin-Up `60s rest`
 * Hinge `3m rest`
 
-#### Push/Legs(Hinge)
+#### Push/Legs
 * Pushup `60s rest`
 * Pistol Squat `60s rest`
 * Dip `60s rest`
