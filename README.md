@@ -175,12 +175,13 @@ Here are the progressions for every exercises in the routine:
 **Legs**
 
 | Pistol Squat Progression | [Shrimp Squat Progression](https://www.reddit.com/r/bodyweightfitness/wiki/exercises/squat#wiki_recommended_progression) | Hinge Progression  |
-|--------------------------|---------------------------|-------------------------|
+|-------|---------------------------|-------------------------|
 | Pistol Squats            | Advanced Shrimp Squats    | [Glute-Ham Raise](https://www.youtube.com/watch?v=Ae81rtoBpOw#t=8m27s) | 
 | Box Pistol Squats        | Intermediate Shrimp Squat | [Harop Curls](https://www.youtube.com/watch?v=A2xRx7dGWaE)             | 
 | Jump Squats              | Beginner Shrimp Squats    | [Bridge Curls](https://www.youtube.com/watch?v=vc1E5CfRfos#t=10m43s)   | 
 | Bodyweight Squats        | Bulgarian Split Squats    | Single-legged Deadlifts                                                | 
-|                          | Split Squats              |                                                                        |       |                          | Bodyweight Squats         |
+|                          | Split Squats              |                                                                        |       |                          | Bodyweight Squats         |                                                                        |
+
 <br/>
 
 Perform each rep of each exercises slowly and controlled. The idea is to keep the muscles under tension for as long as possible. All exercises should be slow and controlled on the way down (~3s) and explosive on the way up. For example, for jump squats, don't just do quick half-jumps; that's just cardio. Land softly and controlled into a full deep squat, all the way down, and explode upwards into a jump. Try not to stop at any point throughout the movement.
