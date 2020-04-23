@@ -143,7 +143,7 @@ These are great because they're a single full-body workout you can do in one day
 ### My Workout
 My training program is broken down into a full-body strenght routine performed three times a week, plus occasional cardio performed about once per week.
 
-The strength exercises are performed by alternating upper body and lower exercises: Pull is paired with Legs(Squat), and Push is paired with Legs(Hinge).
+The strength exercises are performed by alternating upper body and lower exercises.
 
 The first time performing this workout you have to determine the progression you are at for each exercise. To do this, simply choose a progression and perform until failure. If you can do more than 12 reps (or hold more than 20s, if it's a hold), go to a harder progression. If you cannot do more than 12 reps (or hold for 20s, if it's a hold), then that is the progression you are at.
 
@@ -166,21 +166,21 @@ Here are the progressions for every exercises in the routine:
 |----------------------------|--------------------------|----------------------|
 | Handstand Pushups          | Explosive Deep Pushups   | Dips                 |
 | Negative Handstand Pushups | Deep Pushups             | Negative Dips        |
-| Handstand                  | Explosive Pushups        | Leg-assisted Dips    |
+| Handstands                 | Explosive Pushups        | Leg-assisted Dips    |
 | Elevated Pike Pushups      | Pushups                  |
-| Pike Pushup                | Negative Pushups         |
-| Negative Pike Pushup       | Knee Pushups             |
-| Pike Hold                  | Negative Knee Pushups
+| Pike Pushups               | Negative Pushups         |
+| Negative Pike Pushups      | Knee Pushups             |
+| Pike Holds                 | Negative Knee Pushups
 
 **Legs**
 
-| Squat Progression (x3) | Hinge Progression (x3) |
-|------------------------|------------------------|
-| Pistol Squats          | Sprinter Lunge         | 
-| Box Pistol Squats      | Heel Touches           | 
-| Jump Squats            |                        | 
-| Bodyweight Squats      |                        | 
-
+| Pistol Squat Progression | [Shrimp Squat Progression](https://www.reddit.com/r/bodyweightfitness/wiki/exercises/squat#wiki_recommended_progression) | Hinge Progression  |
+|--------------------------|---------------------------|-------------------------|
+| Pistol Squats            | Advanced Shrimp Squats    | [Glute-Ham Raise](https://www.youtube.com/watch?v=Ae81rtoBpOw#t=8m27s) | 
+| Box Pistol Squats        | Intermediate Shrimp Squat | [Harop Curls](https://www.youtube.com/watch?v=A2xRx7dGWaE)             | 
+| Jump Squats              | Beginner Shrimp Squats    | [Bridge Curls](https://www.youtube.com/watch?v=vc1E5CfRfos#t=10m43s)   | 
+| Bodyweight Squats        | Bulgarian Split Squats    | Single-legged Deadlifts                                                | 
+|                          | Split Squats              |                                                                        |       |                          | Bodyweight Squats         |
 <br/>
 
 Perform each rep of each exercises slowly and controlled. The idea is to keep the muscles under tension for as long as possible. All exercises should be slow and controlled on the way down (~3s) and explosive on the way up. For example, for jump squats, don't just do quick half-jumps; that's just cardio. Land softly and controlled into a full deep squat, all the way down, and explode upwards into a jump.
@@ -210,17 +210,17 @@ Once you can perform 12 perfect-form reps of a progression (or hold with perfect
 
 #### Pull/Legs(Squat)
 * Pullup `60s rest`
-* Squat `60s rest`
+* Pistol Squat `60s rest`
 * Pullup `60s rest`
-* Squat `60s rest`
+* Shrimp Squat `60s rest`
 * Chin-Up `60s rest`
-* Squat `3m rest`
+* Hinge `3m rest`
 
 #### Push/Legs(Hinge)
 * Pushup `60s rest`
-* Hinge `60s rest`
+* Pistol Squat `60s rest`
 * Dip `60s rest`
-* Hinge `60s rest`
+* Shrimp Squat `60s rest`
 * Handstand `60s rest`
 * Hinge `60s rest`
 
