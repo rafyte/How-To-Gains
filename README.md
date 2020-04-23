@@ -170,16 +170,16 @@ Here are the progressions for every exercises in the routine:
 | Elevated Pike Pushups      | Pushups                  |
 | Pike Pushups               | Negative Pushups         |
 | Negative Pike Pushups      | Knee Pushups             |
-| Pike Holds                 | Negative Knee Pushups
+| Pike Holds                 | Negative Knee Pushups    |
 
 **Legs**
 
-| Pistol Squat Progression | Shrimp Squat Progression  | Hinge Progression  |
+| Pistol Squat Progression | Shrimp Squat Progression2  | Hinge Progression  |
 |--------------------------|---------------------------|---------------------------------------------------------------------|
-| Pistol Squats            | Advanced Shrimp Squats    | [Glute-Ham Raise](https://www.youtube.com/watch?v=Ae81rtoBpOw#t=8m27s) | 
-| Box Pistol Squats        | Intermediate Shrimp Squat | [Harop Curls](https://www.youtube.com/watch?v=A2xRx7dGWaE)             | 
-| Jump Squats              | Beginner Shrimp Squats    | [Bridge Curls](https://www.youtube.com/watch?v=vc1E5CfRfos#t=10m43s)   | 
-| Bodyweight Squats        | Bulgarian Split Squats    | Single-legged Deadlifts                                                | 
+| Pistol Squats            | Advanced Shrimp Squats    | [Glute-Ham Raise](https://www.youtube.com/watch?v=Ae81rtoBpOw#t=8m27s) |
+| Box Pistol Squats        | Intermediate Shrimp Squat | [Harop Curls](https://www.youtube.com/watch?v=A2xRx7dGWaE)             |
+| Jump Squats              | Beginner Shrimp Squats    | [Bridge Curls](https://www.youtube.com/watch?v=vc1E5CfRfos#t=10m43s)   |
+| Bodyweight Squats        | Bulgarian Split Squats    | Single-legged Deadlifts                                                |
 |                          | Split Squats              |
 |                          | Bodyweight Squats         |
 
