@@ -143,7 +143,7 @@ These are great because they're a single full-body workout you can do in one day
 ### My Workout
 My training program is broken down into a full-body strenght routine performed three times a week, plus occasional cardio performed about once per week.
 
-The strength exercises are performed by alternating upper body and lower exercises.
+The strength exercises are performed by alternating upper body and lower body exercises.
 
 The first time performing this workout you have to determine the progression you are at for each exercise. To do this, simply choose a progression and perform until failure. If you can do more than 12 reps (or hold more than 20s, if it's a hold), go to a harder progression. If you cannot do more than 12 reps (or hold for 20s, if it's a hold), then that is the progression you are at.
 
@@ -183,7 +183,7 @@ Here are the progressions for every exercises in the routine:
 |                          | Split Squats              |                                                                        |       |                          | Bodyweight Squats         |
 <br/>
 
-Perform each rep of each exercises slowly and controlled. The idea is to keep the muscles under tension for as long as possible. All exercises should be slow and controlled on the way down (~3s) and explosive on the way up. For example, for jump squats, don't just do quick half-jumps; that's just cardio. Land softly and controlled into a full deep squat, all the way down, and explode upwards into a jump.
+Perform each rep of each exercises slowly and controlled. The idea is to keep the muscles under tension for as long as possible. All exercises should be slow and controlled on the way down (~3s) and explosive on the way up. For example, for jump squats, don't just do quick half-jumps; that's just cardio. Land softly and controlled into a full deep squat, all the way down, and explode upwards into a jump. Try not to stop at any point throughout the movement.
 
 Prioritize perfect-form from the start. Make sure to perform full range of motion for every exercise. For example, for a pushup you should practically touch the floor and extend completely for every rep.
 
@@ -191,8 +191,7 @@ Start with the dynamic warmup. Each warmup exercise should be roughly 10 reps.
 
 For each exercise:
 1. Perform your highest progression until failure. Failure is when you can no longer perform the exercise with good form.
-2. Immediately continue set, moving one progression down and perform until failure. For example, if you reach failure at 5 pullups, immediately start negative pullups until failure.
-3. Rest for 60s before moving on to the next exercise.
+2. Rest for 60s-90s before moving on to the next exercise.
 
 Once you can perform 12 perfect-form reps of a progression (or hold with perfect form for 20 seconds, if it's a hold), move to the next progression up when you do your next workout. If you can perform 12 perfect-reps of the highest progression, it's time to add weights.
 
@@ -208,29 +207,26 @@ Once you can perform 12 perfect-form reps of a progression (or hold with perfect
 * Crab Walk `x10 forward, x10 backward`
 * Leg Swings `x10 side-to-side, x10 front-and-back`
 
-#### Push/Legs
-* Pushup `90s rest` Pistol Squat `90s rest`
-* Pushup `90s rest` Pistol Squat `90s rest`
-* Pushup `90s rest` Pistol Squat `90s rest`
+#### Push(chest)/Legs
+* Pushup `60s rest` Pistol Squat `60s rest`
+* Pushup `60s rest` Pistol Squat `60s rest`
+* Pushup `60s rest` Pistol Squat `60s rest`
+* Dip `3m rest`
 
 #### Pull/Legs
-* Pullup `90s rest` Shrimp Squat `90s rest`
-* Pullup `90s rest` Shrimp Squat `90s rest`
-* Pullup `90s rest` Shrimp Squat `90s rest`
+* Pullup `60s rest` Shrimp Squat `60s rest`
+* Pullup `60s rest` Shrimp Squat `60s rest`
+* Pullup `60s rest` Shrimp Squat `60s rest`
+* Chin-up `3m rest`
 
-#### Push/Legs
-* Handstand `90s rest` Hinge `90s rest`
-* Handstand `90s rest` Hinge `90s rest`
-* Handstand `90s rest` Hinge `90s rest`
-
-#### Pull/Push
-* Chin-up `90s rest` Dip `90s rest`
-* Chin-up `90s rest` Dip `90s rest`
-* Chin-up `90s rest` Dip `90s rest`
+#### Push(shoulders)/Legs
+* Handstand `60s rest` Hinge `60s rest`
+* Handstand `60s rest` Hinge `60s rest`
+* Handstand `60s rest` Hinge `60s rest`
 
 <br/>
 
-Workout time: ~45 mins.
+Workout time: ~55 mins.
 
 Weekly schedule:
 
