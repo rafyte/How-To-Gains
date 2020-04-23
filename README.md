@@ -174,8 +174,8 @@ Here are the progressions for every exercises in the routine:
 
 **Legs**
 
-| Pistol Squat Progression | [Shrimp Squat Progression](https://www.reddit.com/r/bodyweightfitness/wiki/exercises/squat#wiki_recommended_progression) | Hinge Progression  |
-|-------|---------------------------|-------------------------|
+| Pistol Squat Progression | [Shrimp Squat Progression](www.reddit.com/r/bodyweightfitness/wiki/exercises/squat) | Hinge Progression  |
+|--------------------------|---------------------------|------------------------------------------------------------------------------|
 | Pistol Squats            | Advanced Shrimp Squats    | [Glute-Ham Raise](https://www.youtube.com/watch?v=Ae81rtoBpOw#t=8m27s) | 
 | Box Pistol Squats        | Intermediate Shrimp Squat | [Harop Curls](https://www.youtube.com/watch?v=A2xRx7dGWaE)             | 
 | Jump Squats              | Beginner Shrimp Squats    | [Bridge Curls](https://www.youtube.com/watch?v=vc1E5CfRfos#t=10m43s)   | 
