@@ -180,7 +180,8 @@ Here are the progressions for every exercises in the routine:
 | Box Pistol Squats        | Intermediate Shrimp Squat | [Harop Curls](https://www.youtube.com/watch?v=A2xRx7dGWaE)             | 
 | Jump Squats              | Beginner Shrimp Squats    | [Bridge Curls](https://www.youtube.com/watch?v=vc1E5CfRfos#t=10m43s)   | 
 | Bodyweight Squats        | Bulgarian Split Squats    | Single-legged Deadlifts                                                | 
-|                          | Split Squats              |                                                                        |       |                          | Bodyweight Squats         |                                                                        |
+|                          | Split Squats              |
+|                          | Bodyweight Squats         |
 
 <br/>
 
