@@ -196,8 +196,6 @@ For each exercise:
 
 Once you can perform 12 perfect-form reps of a progression (or hold with perfect form for 20 seconds, if it's a hold), move to the next progression up when you do your next workout. If you can perform 12 perfect-reps of the highest progression, it's time to add weights.
 
-If you start with the Pull/Legs pairs one day, start with the Push/Legs pairs the next workout day and alternate each workout.
-
 ### Strength Routine
 
 #### Warmup
@@ -210,21 +208,25 @@ If you start with the Pull/Legs pairs one day, start with the Push/Legs pairs th
 * Crab Walk `x10 forward, x10 backward`
 * Leg Swings `x10 side-to-side, x10 front-and-back`
 
+#### Push/Legs
+* Pushup `90s rest` Pistol Squat `90s rest`
+* Pushup `90s rest` Pistol Squat `90s rest`
+* Pushup `90s rest` Pistol Squat `90s rest`
+
 #### Pull/Legs
-* Pullup `60s rest`
-* Pistol Squat `60s rest`
-* Pullup `60s rest`
-* Shrimp Squat `60s rest`
-* Chin-Up `60s rest`
-* Hinge `3m rest`
+* Pullup `90s rest` Shrimp Squat `90s rest`
+* Pullup `90s rest` Shrimp Squat `90s rest`
+* Pullup `90s rest` Shrimp Squat `90s rest`
 
 #### Push/Legs
-* Pushup `60s rest`
-* Pistol Squat `60s rest`
-* Dip `60s rest`
-* Shrimp Squat `60s rest`
-* Handstand `60s rest`
-* Hinge `60s rest`
+* Handstand `90s rest` Hinge `90s rest`
+* Handstand `90s rest` Hinge `90s rest`
+* Handstand `90s rest` Hinge `90s rest`
+
+#### Pull/Push
+* Chin-up `90s rest` Dip `90s rest`
+* Chin-up `90s rest` Dip `90s rest`
+* Chin-up `90s rest` Dip `90s rest`
 
 <br/>
 
