@@ -199,7 +199,7 @@ Once you can perform 12 perfect-form reps of a progression (or hold with perfect
 
 ### Strength Routine
 
-#### Warmup
+### Warmup
 * Shoulder Band Dislocates `x10`
 * Squat Sky-Reaches `x10`
 * Cat-Camel Bends `x10`
@@ -210,16 +210,14 @@ Once you can perform 12 perfect-form reps of a progression (or hold with perfect
 * Leg Swings `x10 side-to-side, x10 front-and-back`
 
 #### Pair 1
-* Pushup `60s rest` Pistol Squat `60s rest`
-* Pushup `60s rest` Pistol Squat `60s rest`
-* Pushup `60s rest` Pistol Squat `60s rest`
-* Dip `3m rest`
+* Pushup/Dip `60s rest` Pullup/Chin-up `60s rest`
+* Pushup/Dip `60s rest` Pullup/Chin-up `60s rest`
+* Pushup/Dip `60s rest` Pullup/Chin-up `60s rest`
 
 #### Pair 2
-* Pullup `60s rest` Shrimp Squat `60s rest`
-* Pullup `60s rest` Shrimp Squat `60s rest`
-* Pullup `60s rest` Shrimp Squat `60s rest`
-* Chin-up `3m rest`
+* Pistol Squat / Shrimp Squat `60s rest`
+* Pistol Squat / Shrimp Squat `60s rest`
+* Pistol Squat / Shrimp Squat `60s rest`
 
 #### Pair 3
 * Handstand `60s rest` Hinge `60s rest`
