@@ -210,19 +210,19 @@ Once you can perform 12 perfect-form reps of a progression (or hold with perfect
 * Leg Swings `x10 side-to-side, x10 front-and-back`
 
 #### Pair 1
-* Pushup/Dip `60s rest` Pullup/Chin-up `60s rest`
-* Pushup/Dip `60s rest` Pullup/Chin-up `60s rest`
-* Pushup/Dip `60s rest` Pullup/Chin-up `60s rest`
+* Pushup/Dip `90s rest` Pullup/Chin-up `90s rest`
+* Pushup/Dip `90s rest` Pullup/Chin-up `90s rest`
+* Pushup/Dip `90s rest` Pullup/Chin-up `90s rest`
 
 #### Pair 2
-* Pistol Squat / Shrimp Squat `60s rest`
-* Pistol Squat / Shrimp Squat `60s rest`
-* Pistol Squat / Shrimp Squat `60s rest`
+* Pistol Squat / Shrimp Squat `3m rest`
+* Pistol Squat / Shrimp Squat `3m rest`
+* Pistol Squat / Shrimp Squat `3m rest`
 
 #### Pair 3
-* Handstand `60s rest` Hinge `60s rest`
-* Handstand `60s rest` Hinge `60s rest`
-* Handstand `60s rest` Hinge `60s rest`
+* Handstand `90s rest` Hinge `90s rest`
+* Handstand `90s rest` Hinge `90s rest`
+* Handstand `90s rest` Hinge `90s rest`
 
 <br/>
 
