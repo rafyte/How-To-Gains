@@ -199,7 +199,7 @@ Once you can perform 12 perfect-form reps of a progression (or hold with perfect
 
 ### Strength Routine
 
-### Warmup
+#### Warmup
 * Shoulder Band Dislocates `x10`
 * Squat Sky-Reaches `x10`
 * Cat-Camel Bends `x10`
