@@ -174,14 +174,17 @@ Here are the progressions for every exercises in the routine:
 
 **Legs**
 
-| Pistol Squat Progression | [Shrimp Squat Progression](https://www.reddit.com/r/bodyweightfitness/wiki/exercises/squat#wiki_recommended_progression)  | Hinge Progression  |
-|--------------------------|---------------------------|---------------------------------------------------------------------|
-| Pistol Squats            | Advanced Shrimp Squats    | [Glute-Ham Raise](https://www.youtube.com/watch?v=Ae81rtoBpOw#t=8m27s) |
-| Box Pistol Squats        | Intermediate Shrimp Squat | [Harop Curls](https://www.youtube.com/watch?v=A2xRx7dGWaE)             |
-| Jump Squats              | Beginner Shrimp Squats    | [Bridge Curls](https://www.youtube.com/watch?v=vc1E5CfRfos#t=10m43s)   |
-| Bodyweight Squats        | Bulgarian Split Squats    | Single-legged Deadlifts                                                |
-|                          | Split Squats              |
-|                          | Bodyweight Squats         |
+| [Single-leg Squat Progression](https://www.reddit.com/r/bodyweightfitness/wiki/exercises/squat#wiki_recommended_progression)  | Hinge Progression  |
+|---------------------------|---------------------------------------------------------------------|
+| Pistol Squats             | [Glute-Ham Raise](https://www.youtube.com/watch?v=Ae81rtoBpOw#t=8m27s) |
+| Box Pistol Squats         | [Harop Curls](https://www.youtube.com/watch?v=A2xRx7dGWaE)             |
+| Advanced Shrimp Squats    | [Bridge Curls](https://www.youtube.com/watch?v=vc1E5CfRfos#t=10m43s)   |
+| Intermediate Shrimp Squat | Single-legged Deadlifts                                                |
+| Beginner Shrimp Squats    |
+| Bulgarian Split Squats    |
+| Split Squats              |
+| Jump Squats               |
+| Bodyweight Squats         |
 
 <br/>
 
@@ -210,23 +213,24 @@ Once you can perform 12 perfect-form reps of a progression (or hold with perfect
 * Leg Swings `x10 side-to-side, x10 front-and-back`
 
 #### Pair 1
-* Pushup/Dip `90s rest` Pullup/Chin-up `90s rest`
-* Pushup/Dip `90s rest` Pullup/Chin-up `90s rest`
-* Pushup/Dip `90s rest` Pullup/Chin-up `90s rest`
+* Pushup `90s rest` Neutral-grip Pullup `90s rest`
+* Dip `90s rest` Neutral-grip Pullup `90s rest`
+* Pushup `90s rest` Neutral-grip Pullup `90s rest`
+* Dip `90s rest` Neutral-grip Pullup `90s rest`
 
 #### Pair 2
-* Pistol Squat / Shrimp Squat `3m rest`
-* Pistol Squat / Shrimp Squat `3m rest`
-* Pistol Squat / Shrimp Squat `3m rest`
+* Handstand `90s rest` Hinge `90s rest`
+* Handstand `90s rest` Hinge `90s rest`
+* Handstand `90s rest` Hinge `90s rest`
 
 #### Pair 3
-* Handstand `90s rest` Hinge `90s rest`
-* Handstand `90s rest` Hinge `90s rest`
-* Handstand `90s rest` Hinge `90s rest`
+* Squat `3m rest`
+* Squat `3m rest`
+* Squat `3m rest`
 
 <br/>
 
-Workout time: ~55 mins.
+Workout time: ~60 mins.
 
 Weekly schedule:
 
