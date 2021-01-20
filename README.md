@@ -141,9 +141,7 @@ Great beginner bodyweight routies:
 These are great because they're a single full-body workout you can do in one day. My personal workout routine is a single full-body workout derived from the above programs.
 
 ### My Workout
-My training program is broken down into a full-body strenght routine performed three times a week, plus occasional cardio performed about once per week.
-
-The strength exercises are performed by alternating upper body and lower body exercises.
+My training program is broken down into 1) Upper Body routine, 2) Lower Body routine, 3) Full Body routine, plus occasional cardio performed about once per week.
 
 The first time performing this workout you have to determine the progression you are at for each exercise. To do this, simply choose a progression and perform until failure. If you can do more than 12 reps (or hold more than 20s, if it's a hold), go to a harder progression. If you cannot do more than 12 reps (or hold for 20s, if it's a hold), then that is the progression you are at.
 
@@ -164,9 +162,9 @@ Here are the progressions for every exercises in the routine:
 
 | Handstand Progression      | Pushup Progression       | Dip Progression      |
 |----------------------------|--------------------------|----------------------|
-| Handstand Pushups          | Explosive Deep Pushups   | Dips                 |
-| Negative Handstand Pushups | Deep Pushups             | Negative Dips        |
-| Handstands                 | Explosive Pushups        | Leg-assisted Dips    |
+| Handstand Pushups          | Planche Pushups          | Dips                 |
+| Negative Handstand Pushups | [Pseudo Planche Pushups](https://www.youtube.com/watch?v=TZ63httkob4) | Negative Dips        |
+| Handstands                 | Deep Pushups             | Leg-assisted Dips    |
 | Elevated Pike Pushups      | Pushups                  |
 | Pike Pushups               | Negative Pushups         |
 | Negative Pike Pushups      | Knee Pushups             |
@@ -200,7 +198,35 @@ For each exercise:
 
 Once you can perform 12 perfect-form reps of a progression (or hold with perfect form for 20 seconds, if it's a hold), move to the next progression up when you do your next workout. If you can perform 12 perfect-reps of the highest progression, it's time to add weights.
 
-### Strength Routine
+### Upper Body
+
+#### Warmup
+* Shoulder Band Dislocates `x10`
+* Squat Sky-Reaches `x10`
+* Cat-Camel Bends `x10`
+* Wrist Mobility
+* [Active Hang](https://www.youtube.com/watch?v=HoE-C85ZlCE)
+* Bear Crawl `x10 forward, x10 backward`
+* Crab Walk `x10 forward, x10 backward`
+
+#### Routine
+* Pushup `90s rest` Pullup `90s rest`
+* Dip `90s rest` Pullup `90s rest`
+* Pushup `90s rest` Pullup `90s rest`
+* Dip `90s rest` Pullup `90s rest`
+* Handstand `2.5m rest` `x4`
+
+### Lower Body
+
+#### Warmup
+* Bodyweight Squats `x10`
+* Leg Swings `x10 side-to-side, x10 front-and-back`
+
+#### Routine
+* Hinge `2.5m rest` `x4`
+* Squat `2.5m rest` `x4`
+
+### Full Body
 
 #### Warmup
 * Shoulder Band Dislocates `x10`
@@ -212,21 +238,9 @@ Once you can perform 12 perfect-form reps of a progression (or hold with perfect
 * Crab Walk `x10 forward, x10 backward`
 * Leg Swings `x10 side-to-side, x10 front-and-back`
 
-#### Pair 1
-* Pushup `90s rest` Neutral-grip Pullup `90s rest`
-* Dip `90s rest` Neutral-grip Pullup `90s rest`
-* Pushup `90s rest` Neutral-grip Pullup `90s rest`
-* Dip `90s rest` Neutral-grip Pullup `90s rest`
-
-#### Pair 2
-* Handstand `90s rest` Hinge `90s rest`
-* Handstand `90s rest` Hinge `90s rest`
-* Handstand `90s rest` Hinge `90s rest`
-
-#### Pair 3
-* Squat `3m rest`
-* Squat `3m rest`
-* Squat `3m rest`
+#### Routine
+* Dive Bomber `90s rest` Pullup `90s rest` `x4`
+* Jump Squats `x4`
 
 <br/>
 
