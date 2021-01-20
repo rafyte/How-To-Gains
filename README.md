@@ -172,7 +172,7 @@ Here are the progressions for every exercises in the routine:
 
 **Legs**
 
-| [Single-leg Squat Progression](https://www.reddit.com/r/bodyweightfitness/wiki/exercises/squat#wiki_recommended_progression)  | Hinge Progression  |
+| [Squat Progression](https://www.reddit.com/r/bodyweightfitness/wiki/exercises/squat#wiki_recommended_progression)  | Hinge Progression  |
 |---------------------------|---------------------------------------------------------------------|
 | Pistol Squats             | [Glute-Ham Raise](https://www.youtube.com/watch?v=Ae81rtoBpOw#t=8m27s) |
 | Box Pistol Squats         | [Harop Curls](https://www.youtube.com/watch?v=A2xRx7dGWaE)             |
