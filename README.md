@@ -201,9 +201,9 @@ Once you can perform 12 perfect-form reps of a progression (or hold with perfect
 ### Upper Body
 
 #### Warmup
-* Shoulder Band Dislocates `x10`
-* Squat Sky-Reaches `x10`
-* Cat-Camel Bends `x10`
+* Shoulder Band Dislocate `x10`
+* Squat Sky-Reach `x10`
+* Cat-Camel Bend `x10`
 * Wrist Mobility
 * [Active Hang](https://www.youtube.com/watch?v=HoE-C85ZlCE)
 * Bear Crawl `x10 forward, x10 backward`
@@ -219,8 +219,8 @@ Once you can perform 12 perfect-form reps of a progression (or hold with perfect
 ### Lower Body
 
 #### Warmup
-* Bodyweight Squats `x10`
-* Leg Swings `x10 side-to-side, x10 front-and-back`
+* Bodyweight Squat `x10`
+* Leg Swing `x10 side-to-side, x10 front-and-back`
 
 #### Routine
 * Hinge `2.5m rest` `x4`
@@ -229,26 +229,25 @@ Once you can perform 12 perfect-form reps of a progression (or hold with perfect
 ### Full Body
 
 #### Warmup
-* Shoulder Band Dislocates `x10`
-* Squat Sky-Reaches `x10`
-* Cat-Camel Bends `x10`
+* Shoulder Band Dislocate `x10`
+* Squat Sky-Reache `x10`
+* Cat-Camel Bend `x10`
 * Wrist Mobility
 * [Active Hang](https://www.youtube.com/watch?v=HoE-C85ZlCE)
 * Bear Crawl `x10 forward, x10 backward`
 * Crab Walk `x10 forward, x10 backward`
-* Leg Swings `x10 side-to-side, x10 front-and-back`
+* Bodyweight Squat `x10`
+* Leg Swing `x10 side-to-side, x10 front-and-back`
 
 #### Routine
 * Dive Bomber `90s rest` Pullup `90s rest` `x4`
-* Jump Squats `x4`
+* Leap Squat `x4`
 
 <br/>
 
-Workout time: ~60 mins.
-
 Weekly schedule:
 
-`STRENGTH` `rest` `STRENGTH` `rest` `STRENGTH` `rest/CARDIO` `rest`
+`UPPER` `rest` `FULL` `rest` `LOWER` `rest/CARDIO` `rest`
 
 <br/>
 
