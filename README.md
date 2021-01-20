@@ -202,12 +202,10 @@ Once you can perform 12 perfect-form reps of a progression (or hold with perfect
 
 #### Warmup
 * Shoulder Band Dislocate `x10`
-* Squat Sky-Reach `x10`
 * Cat-Camel Bend `x10`
 * Wrist Mobility
 * [Active Hang](https://www.youtube.com/watch?v=HoE-C85ZlCE)
-* Bear Crawl `x10 forward, x10 backward`
-* Crab Walk `x10 forward, x10 backward`
+* Animal Movements
 
 #### Routine
 * Pushup `90s rest` Pullup `90s rest`
@@ -230,12 +228,10 @@ Once you can perform 12 perfect-form reps of a progression (or hold with perfect
 
 #### Warmup
 * Shoulder Band Dislocate `x10`
-* Squat Sky-Reache `x10`
 * Cat-Camel Bend `x10`
 * Wrist Mobility
 * [Active Hang](https://www.youtube.com/watch?v=HoE-C85ZlCE)
-* Bear Crawl `x10 forward, x10 backward`
-* Crab Walk `x10 forward, x10 backward`
+* Animal Movements
 * Bodyweight Squat `x10`
 * Leg Swing `x10 side-to-side, x10 front-and-back`
 
