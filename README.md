@@ -140,7 +140,7 @@ Great beginner bodyweight routies:
   
 These are great because they're a single full-body workout you can do in one day. My personal workout routine is a single full-body workout derived from the above programs.
 
-### The Workout
+### My Workout
 I use a PPL workout split (PUSH, PULL, LEGS), plus occasional cardio performed about once per week.
 
 Perform each rep of each exercise slowly and controlled. The idea is to keep the muscles under tension for as long as possible. All exercises should be slow and controlled on the way down (1sec+) and explosive on the way up. For example, for jump squats, don't just do quick half-jumps; that's just cardio. Land softly and controlled into a full deep squat, all the way down, and explode upwards into a jump. Try not to stop at any point throughout the movement.
