@@ -198,6 +198,8 @@ For each exercise:
 
 Once you can perform 12 perfect-form reps of a progression (or hold with perfect form for 30 seconds, if it's a hold), move to the next progression up when you do your next workout. If you can perform 12 perfect-reps of the highest progression, it's time to add weights.
 
+---
+
 ### PUSH
 #### Warmup
 * Shoulder Band Dislocate `x10`
@@ -208,6 +210,8 @@ Once you can perform 12 perfect-form reps of a progression (or hold with perfect
 * Pushup | Dip `2-3m rest` `x5`
 * Handstand Progression `2-3m rest` `x3`
 
+---
+
 ### PULL
 #### Warmup
 * Shoulder Band Dislocate `x10`
@@ -215,8 +219,10 @@ Once you can perform 12 perfect-form reps of a progression (or hold with perfect
 * Wrist Mobility
 * [Active Hang](https://www.youtube.com/watch?v=HoE-C85ZlCE)
 #### Routine
-* Pullup | Chinup `2-3m rest` `x5`
-* Row `2-3m rest` `x3`
+* Pullup `2-3m rest` `x5`
+* Chinup `2-3m rest` `x3`
+
+---
 
 ### LEGS
 #### Warmup
@@ -226,7 +232,7 @@ Once you can perform 12 perfect-form reps of a progression (or hold with perfect
 * Squat Progression `2-3m rest` `x4`
 * Hinge Progression `2-3m rest` `x4`
 
-<br/>
+---
 
 Weekly schedule:
 
