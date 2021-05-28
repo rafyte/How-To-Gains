@@ -166,7 +166,7 @@ For a shorter workout, you can skip the second exercise in each routine (i.e. fo
 * Wrist Mobility
 * Bear Crawl
 #### Routine
-* Pushups ___or___ Dips `2-3m rest` `x5`
+* Pushup ___or___ Dip Progression `2-3m rest` `x5`
 * Handstand Progression `2-3m rest` `x3`
 
 ---
@@ -178,8 +178,8 @@ For a shorter workout, you can skip the second exercise in each routine (i.e. fo
 * Wrist Mobility
 * [Active Hang](https://www.youtube.com/watch?v=HoE-C85ZlCE)
 #### Routine
-* Pullups ___or___ Chin-ups `2-3m rest` `x5`
-* Rows `2-3m rest` `x3`
+* Pullup ___or___ Chin-up Progression `2-3m rest` `x5`
+* Row Progression `2-3m rest` `x3`
 
 ---
 
