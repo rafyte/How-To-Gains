@@ -149,7 +149,7 @@ Here are the progressions for every exercises in the routine:
 
 **Pull**
 
-| Chin-up Progression       | Pullup Progression       |
+| Chin-up Progression       | Pullup Progression       | [Row Progression](https://www.reddit.com/r/bodyweightfitness/wiki/exercises/row) |
 |---------------------------|--------------------------|
 | One-arm Chin-ups          | One-arm Pullups          |
 | Assisted One-arm Chin-ups | Assisted One-arm Pullups |
