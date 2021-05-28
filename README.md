@@ -141,7 +141,7 @@ Great beginner bodyweight routies:
 These are great because they're a single full-body workout you can do in one day. My personal workout routine is a single full-body workout derived from the above programs.
 
 ### My Workout
-My training program is broken down into 1) Upper Body routine, 2) Lower Body routine, 3) Full Body routine, plus occasional cardio performed about once per week.
+I use a PPL workout split (PUSH, PULL, LEGS), plus occasional cardio performed about once per week.
 
 The first time performing this workout you have to determine the progression you are at for each exercise. To do this, simply choose a progression and perform until failure. If you can do more than 12 reps (or hold more than 20s, if it's a hold), go to a harder progression. If you cannot do more than 12 reps (or hold for 20s, if it's a hold), then that is the progression you are at.
 
@@ -198,23 +198,41 @@ For each exercise:
 
 Once you can perform 12 perfect-form reps of a progression (or hold with perfect form for 20 seconds, if it's a hold), move to the next progression up when you do your next workout. If you can perform 12 perfect-reps of the highest progression, it's time to add weights.
 
-### Upper Body
+### PUSH
+
+#### Warmup
+* Shoulder Band Dislocate `x10`
+* Cat-Camel Bend `x10`
+* Wrist Mobility
+* Bear Crawl
+
+#### Routine
+* Pushup `OR` Dip `2-3m rest`
+* Pushup `OR` Dip `2-3m rest`
+* Pushup `OR` Dip `2-3m rest``
+* Pushup `OR` Dip `2-3m rest`
+* Handstand Progression `2-3m rest`
+* Handstand Progression `2-3m rest`
+* Handstand Progression `2-3m rest`
+
+### PULL
 
 #### Warmup
 * Shoulder Band Dislocate `x10`
 * Cat-Camel Bend `x10`
 * Wrist Mobility
 * [Active Hang](https://www.youtube.com/watch?v=HoE-C85ZlCE)
-* Animal Movements
 
 #### Routine
-* Pushup `90s rest` Pullup `90s rest`
-* Dip `90s rest` Pullup `90s rest`
-* Pushup `90s rest` Pullup `90s rest`
-* Dip `90s rest` Pullup `90s rest`
-* Handstand `2.5m rest` `x4`
+* Pullup `OR` Chinup `2-3m rest`
+* Pullup `OR` Chinup `2-3m rest`
+* Pullup `OR` Chinup `2-3m rest`
+* Pullup `OR` Chinup `2-3m rest`
+* Row `2-3m rest`
+* Row `2-3m rest`
+* Row `2-3m rest`
 
-### Lower Body
+### LEGS
 
 #### Warmup
 * Bodyweight Squat `x10`
@@ -224,26 +242,13 @@ Once you can perform 12 perfect-form reps of a progression (or hold with perfect
 * Hinge `2.5m rest` `x4`
 * Squat `2.5m rest` `x4`
 
-### Full Body
-
-#### Warmup
-* Shoulder Band Dislocate `x10`
-* Cat-Camel Bend `x10`
-* Wrist Mobility
-* [Active Hang](https://www.youtube.com/watch?v=HoE-C85ZlCE)
-* Animal Movements
-* Bodyweight Squat `x10`
-* Leg Swing `x10 side-to-side, x10 front-and-back`
-
-#### Routine
-* Dive Bomber `90s rest` Pullup `90s rest` `x4`
-* Leap Squat `x4`
-
 <br/>
 
 Weekly schedule:
 
-`UPPER` `rest` `FULL` `rest` `LOWER` `rest/CARDIO` `rest`
+`PUSH` `PULL` `LEGS` `PUSH` `PULL` `LEGS` `rest/CARDIO`
+or
+`PUSH` `PULL` `LEGS` `rest/CARDIO` `PUSH` `PULL` `LEGS`
 
 <br/>
 
