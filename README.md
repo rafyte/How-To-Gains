@@ -199,35 +199,29 @@ For each exercise:
 Once you can perform 12 perfect-form reps of a progression (or hold with perfect form for 30 seconds, if it's a hold), move to the next progression up when you do your next workout. If you can perform 12 perfect-reps of the highest progression, it's time to add weights.
 
 ### PUSH
-
 #### Warmup
 * Shoulder Band Dislocate `x10`
 * Cat-Camel Bend `x10`
 * Wrist Mobility
 * Bear Crawl
-
 #### Routine
 * Pushup | Dip `2-3m rest` `x5`
 * Handstand Progression `2-3m rest` `x3`
 
 ### PULL
-
 #### Warmup
 * Shoulder Band Dislocate `x10`
 * Cat-Camel Bend `x10`
 * Wrist Mobility
 * [Active Hang](https://www.youtube.com/watch?v=HoE-C85ZlCE)
-
 #### Routine
 * Pullup | Chinup `2-3m rest` `x5`
 * Row `2-3m rest` `x3`
 
 ### LEGS
-
 #### Warmup
 * Bodyweight Squat `x10`
 * Leg Swing `x10 side-to-side, x10 front-and-back`
-
 #### Routine
 * Squat Progression `2-3m rest` `x4`
 * Hinge Progression `2-3m rest` `x4`
@@ -237,7 +231,9 @@ Once you can perform 12 perfect-form reps of a progression (or hold with perfect
 Weekly schedule:
 
 `PUSH` `PULL` `LEGS` `PUSH` `PULL` `LEGS` `rest/CARDIO`
+
 or
+
 `PUSH` `PULL` `LEGS` `rest/CARDIO` `PUSH` `PULL` `LEGS`
 
 <br/>
