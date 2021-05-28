@@ -209,7 +209,7 @@ Once you can perform 12 perfect-form reps of a progression (or hold with perfect
 #### Routine
 * Pushup `OR` Dip `2-3m rest`
 * Pushup `OR` Dip `2-3m rest`
-* Pushup `OR` Dip `2-3m rest``
+* Pushup `OR` Dip `2-3m rest`
 * Pushup `OR` Dip `2-3m rest`
 * Handstand Progression `2-3m rest`
 * Handstand Progression `2-3m rest`
