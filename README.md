@@ -153,8 +153,6 @@ For each exercise:
 1. Perform your highest progression until failure. Failure is when you can no longer perform the exercise with good form.
 2. Rest for 2 to 3 minutes before moving on to the next set or exercise.
 
-Once you can perform 12 perfect-form reps of a progression (or hold with perfect form for 30 seconds, if it's a hold), move to the next progression up when you do your next workout. If you can perform 12 perfect-reps of the highest progression, it's time to add weights.
-
 For a shorter workout, you can skip the second exercise in each routine (i.e. for a short PUSH workout, do Pushup/Dips sets and skip Handstand Progression).
 
 ---
@@ -201,7 +199,11 @@ or
 
 `P` `P` `L` `rest/CARDIO` `P` `P` `L`
 
-The first time performing this workout you have to determine the progression you are at for each exercise. To do this, simply choose a progression and perform until failure. If you can do more than 12 reps (or hold more than 20s, if it's a hold), go to a harder progression. If you cannot do more than 12 reps (or hold for 20s, if it's a hold), then that is the progression you are at.
+The first time performing this workout you have to determine the progression you are at for each exercise.
+
+To do this, simply choose an exercise progression and perform until failure. If you cannot do 3 reps with good form, go to the next easier progression. If you can do more than 12 reps (or hold more than 30s, if it's a hold), go to the next harder progression. If you can do between 3 and 12 reps with good form of an exercise progression, then that is the progression you are at.
+
+If you can perform 12 perfect-reps of the highest progression, it's time to add weights.
 
 Here are the progressions for every exercises in the routine:
 
@@ -222,9 +224,9 @@ Here are the progressions for every exercises in the routine:
 |----------------------------|--------------------------|----------------------|
 | Handstand Pushups          | Planche Pushups          | Dips                 |
 | Negative Handstand Pushups | [Pseudo Planche Pushups](https://www.youtube.com/watch?v=TZ63httkob4) | Negative Dips        |
-| Handstands                 | Deep Pushups             | Leg-assisted Dips    |
-| Elevated Pike Pushups      | Pushups                  |
-| Pike Pushups               | Negative Pushups         |
+| Handstands                 | Pushups                  | Leg-assisted Dips    |
+| Elevated Pike Pushups      | Negative Pushups         |
+| Pike Pushups               | Incline Pushups          |
 | Negative Pike Pushups      | Knee Pushups             |
 | Pike Holds                 | Negative Knee Pushups    |
 
