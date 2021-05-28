@@ -207,7 +207,7 @@ Once you can perform 12 perfect-form reps of a progression (or hold with perfect
 * Wrist Mobility
 * Bear Crawl
 #### Routine
-* Pushups ___or___ Dips `2-3m rest` `x4`
+* Pushups ___or___ Dips `2-3m rest` `x5`
 * Handstand Progression `2-3m rest` `x3`
 
 ---
@@ -219,7 +219,7 @@ Once you can perform 12 perfect-form reps of a progression (or hold with perfect
 * Wrist Mobility
 * [Active Hang](https://www.youtube.com/watch?v=HoE-C85ZlCE)
 #### Routine
-* Pullups ___or___ Chin-ups `2-3m rest` `x4`
+* Pullups ___or___ Chin-ups `2-3m rest` `x5`
 * Rows `2-3m rest` `x3`
 
 ---
