@@ -143,50 +143,7 @@ These are great because they're a single full-body workout you can do in one day
 ### The Workout
 I use a PPL workout split (PUSH, PULL, LEGS), plus occasional cardio performed about once per week.
 
-The first time performing this workout you have to determine the progression you are at for each exercise. To do this, simply choose a progression and perform until failure. If you can do more than 12 reps (or hold more than 20s, if it's a hold), go to a harder progression. If you cannot do more than 12 reps (or hold for 20s, if it's a hold), then that is the progression you are at.
-
-Here are the progressions for every exercises in the routine:
-
-**Pull**
-
-| Chin-up Progression       | Pullup Progression       | [Row Progression](https://www.reddit.com/r/bodyweightfitness/wiki/exercises/row) |
-|---------------------------|--------------------------|--------------------------|
-| One-arm Chin-ups          | One-arm Pullups          |
-| Assisted One-arm Chin-ups | Assisted One-arm Pullups |
-| Negative One-arm Chin-ups | Negative One-arm Pullups |
-| Chin-ups                  | Pullups <sup>[1](https://www.youtube.com/watch?v=Ww-gNf0ys8M), [2](https://www.youtube.com/watch?v=hkBcTOa21oQ)</sup> |
-| Negative Chin-ups         | Negative Pullups         |
-| Australian Chin-ups       | Australian Pullups       |
-
-**Push**
-
-| Handstand Progression      | Pushup Progression       | Dip Progression      |
-|----------------------------|--------------------------|----------------------|
-| Handstand Pushups          | Planche Pushups          | Dips                 |
-| Negative Handstand Pushups | [Pseudo Planche Pushups](https://www.youtube.com/watch?v=TZ63httkob4) | Negative Dips        |
-| Handstands                 | Deep Pushups             | Leg-assisted Dips    |
-| Elevated Pike Pushups      | Pushups                  |
-| Pike Pushups               | Negative Pushups         |
-| Negative Pike Pushups      | Knee Pushups             |
-| Pike Holds                 | Negative Knee Pushups    |
-
-**Legs**
-
-| [Squat Progression](https://www.reddit.com/r/bodyweightfitness/wiki/exercises/squat#wiki_recommended_progression)  | Hinge Progression  |
-|---------------------------|---------------------------------------------------------------------|
-| Pistol Squats             | [Glute-Ham Raise](https://www.youtube.com/watch?v=Ae81rtoBpOw#t=8m27s) |
-| Box Pistol Squats         | [Harop Curls](https://www.youtube.com/watch?v=A2xRx7dGWaE)             |
-| Advanced Shrimp Squats    | [Bridge Curls](https://www.youtube.com/watch?v=vc1E5CfRfos#t=10m43s)   |
-| Intermediate Shrimp Squat | Single-legged Deadlifts                                                |
-| Beginner Shrimp Squats    |
-| Bulgarian Split Squats    |
-| Split Squats              |
-| Jump Squats               |
-| Bodyweight Squats         |
-
-<br/>
-
-Perform each rep of each exercises slowly and controlled. The idea is to keep the muscles under tension for as long as possible. All exercises should be slow and controlled on the way down (~3s) and explosive on the way up. For example, for jump squats, don't just do quick half-jumps; that's just cardio. Land softly and controlled into a full deep squat, all the way down, and explode upwards into a jump. Try not to stop at any point throughout the movement.
+Perform each rep of each exercise slowly and controlled. The idea is to keep the muscles under tension for as long as possible. All exercises should be slow and controlled on the way down (1sec+) and explosive on the way up. For example, for jump squats, don't just do quick half-jumps; that's just cardio. Land softly and controlled into a full deep squat, all the way down, and explode upwards into a jump. Try not to stop at any point throughout the movement.
 
 Prioritize perfect-form from the start. Make sure to perform full range of motion for every exercise. For example, for a pushup you should practically touch the floor and extend completely for every rep.
 
@@ -197,6 +154,8 @@ For each exercise:
 2. Rest for 2 to 3 minutes before moving on to the next set or exercise.
 
 Once you can perform 12 perfect-form reps of a progression (or hold with perfect form for 30 seconds, if it's a hold), move to the next progression up when you do your next workout. If you can perform 12 perfect-reps of the highest progression, it's time to add weights.
+
+For a shorter workout, you can skip the second exercise in each routine (i.e. for a short PUSH workout, do Pushup/Dips sets and skip Handstand Progression).
 
 ---
 
@@ -242,9 +201,46 @@ or
 
 `P` `P` `L` `rest/CARDIO` `P` `P` `L`
 
-<br/>
+The first time performing this workout you have to determine the progression you are at for each exercise. To do this, simply choose a progression and perform until failure. If you can do more than 12 reps (or hold more than 20s, if it's a hold), go to a harder progression. If you cannot do more than 12 reps (or hold for 20s, if it's a hold), then that is the progression you are at.
 
----
+Here are the progressions for every exercises in the routine:
+
+**Pull**
+
+| Chin-up Progression       | Pullup Progression       | [Row Progression](https://www.reddit.com/r/bodyweightfitness/wiki/exercises/row) |
+|---------------------------|--------------------------|--------------------------|
+| One-arm Chin-ups          | One-arm Pullups          |
+| Assisted One-arm Chin-ups | Assisted One-arm Pullups |
+| Negative One-arm Chin-ups | Negative One-arm Pullups |
+| Chin-ups                  | Pullups <sup>[1](https://www.youtube.com/watch?v=Ww-gNf0ys8M), [2](https://www.youtube.com/watch?v=hkBcTOa21oQ)</sup> |
+| Negative Chin-ups         | Negative Pullups         |
+| Australian Chin-ups       | Australian Pullups       |
+
+**Push**
+
+| Handstand Progression      | Pushup Progression       | Dip Progression      |
+|----------------------------|--------------------------|----------------------|
+| Handstand Pushups          | Planche Pushups          | Dips                 |
+| Negative Handstand Pushups | [Pseudo Planche Pushups](https://www.youtube.com/watch?v=TZ63httkob4) | Negative Dips        |
+| Handstands                 | Deep Pushups             | Leg-assisted Dips    |
+| Elevated Pike Pushups      | Pushups                  |
+| Pike Pushups               | Negative Pushups         |
+| Negative Pike Pushups      | Knee Pushups             |
+| Pike Holds                 | Negative Knee Pushups    |
+
+**Legs**
+
+| [Squat Progression](https://www.reddit.com/r/bodyweightfitness/wiki/exercises/squat#wiki_recommended_progression)  | Hinge Progression  |
+|---------------------------|---------------------------------------------------------------------|
+| Pistol Squats             | [Glute-Ham Raise](https://www.youtube.com/watch?v=Ae81rtoBpOw#t=8m27s) |
+| Box Pistol Squats         | [Harop Curls](https://www.youtube.com/watch?v=A2xRx7dGWaE)             |
+| Advanced Shrimp Squats    | [Bridge Curls](https://www.youtube.com/watch?v=vc1E5CfRfos#t=10m43s)   |
+| Intermediate Shrimp Squat | Single-legged Deadlifts                                                |
+| Beginner Shrimp Squats    |
+| Bulgarian Split Squats    |
+| Split Squats              |
+| Jump Squats               |
+| Bodyweight Squats         |
 
 # 🍜 NUTRITION
 
