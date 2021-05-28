@@ -158,11 +158,13 @@ For a shorter workout, you can skip the second exercise in each routine (i.e. fo
 ---
 
 ### PUSH
+
 #### Warmup
 * Shoulder Band Dislocate `x10`
 * Cat-Camel Bend `x10`
 * Wrist Mobility
 * Bear Crawl
+
 #### Routine
 * Pushup ___or___ Dip Progression `2-3m rest` `x5`
 * Handstand Progression `2-3m rest` `x3`
@@ -170,11 +172,13 @@ For a shorter workout, you can skip the second exercise in each routine (i.e. fo
 ---
 
 ### PULL
+
 #### Warmup
 * Shoulder Band Dislocate `x10`
 * Cat-Camel Bend `x10`
 * Wrist Mobility
 * [Active Hang](https://www.youtube.com/watch?v=HoE-C85ZlCE)
+
 #### Routine
 * Pullup ___or___ Chin-up Progression `2-3m rest` `x5`
 * Row Progression `2-3m rest` `x3`
@@ -182,9 +186,11 @@ For a shorter workout, you can skip the second exercise in each routine (i.e. fo
 ---
 
 ### LEGS
+
 #### Warmup
 * Bodyweight Squat `x10`
 * Leg Swing `x10 side-to-side, x10 front-and-back`
+
 #### Routine
 * Squat Progression `2-3m rest` `x4`
 * Hinge Progression `2-3m rest` `x4`
