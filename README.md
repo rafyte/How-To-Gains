@@ -140,7 +140,7 @@ Great beginner bodyweight routies:
   
 These are great because they're a single full-body workout you can do in one day. My personal workout routine is a single full-body workout derived from the above programs.
 
-### My Workout
+### The Workout
 I use a PPL workout split (PUSH, PULL, LEGS), plus occasional cardio performed about once per week.
 
 The first time performing this workout you have to determine the progression you are at for each exercise. To do this, simply choose a progression and perform until failure. If you can do more than 12 reps (or hold more than 20s, if it's a hold), go to a harder progression. If you cannot do more than 12 reps (or hold for 20s, if it's a hold), then that is the progression you are at.
@@ -194,9 +194,9 @@ Start with the dynamic warmup. Each warmup exercise should be roughly 10 reps.
 
 For each exercise:
 1. Perform your highest progression until failure. Failure is when you can no longer perform the exercise with good form.
-2. Rest for 60s-90s before moving on to the next set or exercise.
+2. Rest for 2 to 3 minutes before moving on to the next set or exercise.
 
-Once you can perform 12 perfect-form reps of a progression (or hold with perfect form for 20 seconds, if it's a hold), move to the next progression up when you do your next workout. If you can perform 12 perfect-reps of the highest progression, it's time to add weights.
+Once you can perform 12 perfect-form reps of a progression (or hold with perfect form for 30 seconds, if it's a hold), move to the next progression up when you do your next workout. If you can perform 12 perfect-reps of the highest progression, it's time to add weights.
 
 ### PUSH
 
@@ -207,13 +207,8 @@ Once you can perform 12 perfect-form reps of a progression (or hold with perfect
 * Bear Crawl
 
 #### Routine
-* Pushup `OR` Dip `2-3m rest`
-* Pushup `OR` Dip `2-3m rest`
-* Pushup `OR` Dip `2-3m rest`
-* Pushup `OR` Dip `2-3m rest`
-* Handstand Progression `2-3m rest`
-* Handstand Progression `2-3m rest`
-* Handstand Progression `2-3m rest`
+* Pushup | Dip `2-3m rest` `x5`
+* Handstand Progression `2-3m rest` `x3`
 
 ### PULL
 
@@ -224,13 +219,8 @@ Once you can perform 12 perfect-form reps of a progression (or hold with perfect
 * [Active Hang](https://www.youtube.com/watch?v=HoE-C85ZlCE)
 
 #### Routine
-* Pullup `OR` Chinup `2-3m rest`
-* Pullup `OR` Chinup `2-3m rest`
-* Pullup `OR` Chinup `2-3m rest`
-* Pullup `OR` Chinup `2-3m rest`
-* Row `2-3m rest`
-* Row `2-3m rest`
-* Row `2-3m rest`
+* Pullup | Chinup `2-3m rest` `x5`
+* Row `2-3m rest` `x3`
 
 ### LEGS
 
@@ -239,8 +229,8 @@ Once you can perform 12 perfect-form reps of a progression (or hold with perfect
 * Leg Swing `x10 side-to-side, x10 front-and-back`
 
 #### Routine
-* Hinge `2.5m rest` `x4`
-* Squat `2.5m rest` `x4`
+* Squat Progression `2-3m rest` `x4`
+* Hinge Progression `2-3m rest` `x4`
 
 <br/>
 
